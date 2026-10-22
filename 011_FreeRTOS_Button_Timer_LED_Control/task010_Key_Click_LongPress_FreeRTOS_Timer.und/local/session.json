@@ -1,0 +1,257 @@
+{
+    "Session": "default",
+    "Sessions": {
+        "default": {
+            "SessionData": {
+                "2_2560x1440_2560x1440": {
+                    "DockWidgets": {
+                        "FloatingWidgetOrder": [
+                        ],
+                        "OpenWindows": {
+                            "00ProjectOverviewWidget": {
+                                "height": 616,
+                                "width": 250
+                            },
+                            "01SuggestionsBrowser": {
+                                "height": 1011,
+                                "width": 250
+                            },
+                            "02EntityFilter": {
+                                "height": 639,
+                                "width": 250
+                            },
+                            "03IssueBrowser": {
+                                "height": 241,
+                                "width": 2286
+                            },
+                            "04InfoBrowserWidget_0": {
+                                "height": 636,
+                                "width": 270
+                            }
+                        },
+                        "TabGroupFrontWidgets": [
+                            "ProjectOverviewWidget"
+                        ]
+                    },
+                    "EntityFilter": {
+                        "Dock Area": 1,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                            "ProjectOverviewWidget"
+                        ]
+                    },
+                    "InfoBrowserWidget_0": {
+                        "Dock Area": 1,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    },
+                    "IssueBrowser": {
+                        "Dock Area": 8,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    },
+                    "ProjectOverviewWidget": {
+                        "Dock Area": 1,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                            "EntityFilter"
+                        ]
+                    },
+                    "SuggestionsBrowser": {
+                        "Dock Area": 2,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    }
+                },
+                "EditorWindowList": [
+                    "./Core/Src/main.c",
+                    "./Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h"
+                ],
+                "EditorWindowSetting": {
+                    "1aa381544c68698f5ac3e47f6748ce1c": {
+                        "anchor": {
+                            "line": 162,
+                            "offset": 4
+                        },
+                        "caret": {
+                            "line": 162,
+                            "offset": 4
+                        },
+                        "container": 1,
+                        "height": 1011,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 138,
+                        "width": 2032,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "44aadf18b8b883b64908604f28bb3d72": {
+                        "anchor": {
+                            "line": 137,
+                            "offset": 46
+                        },
+                        "caret": {
+                            "line": 137,
+                            "offset": 46
+                        },
+                        "container": 1,
+                        "height": 1011,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 92,
+                        "width": 2032,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "540ff0f268f8673106db9830ae27d4e8": {
+                        "anchor": {
+                            "line": 28,
+                            "offset": 0
+                        },
+                        "caret": {
+                            "line": 28,
+                            "offset": 0
+                        },
+                        "container": 1,
+                        "height": 1011,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 0,
+                        "width": 2032,
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                "EntityFilter": {
+                    "LastEntityFilterUsed": "All Entities"
+                },
+                "GraphicFilterSettings": {
+                    "Enabled": false
+                },
+                "IBExpansions": {
+                    "InfoBrowserWidget": [
+                        "Jovial References",
+                        "Python References",
+                        "WEB References",
+                        "WEB Possible References",
+                        "Asm References",
+                        "C++ File Global Macros",
+                        "Ada References",
+                        "Ftn References",
+                        "VHDL References",
+                        "c# References",
+                        "C++ References",
+                        "Java References",
+                        "basic References",
+                        "Pascal References",
+                        "C++ File Global"
+                    ]
+                },
+                "IBOptions": {
+                },
+                "InfoBrowserWindowManager": {
+                    "InfoBrowserFileSyncInst": -1,
+                    "InfoBrowserSyncInst": [
+                        "0"
+                    ]
+                },
+                "LastAccessedPid": "12228",
+                "LastDisplayGroup": "2_2560x1440_2560x1440",
+                "MaintainEditorHistory": {
+                    "FileRanges": {
+                        "0": {
+                            "ColumnBegin": 8,
+                            "ColumnEnd": 25,
+                            "FilePath": "./Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/freertos_mpool.h",
+                            "LineBegin": 24,
+                            "LineEnd": 24
+                        },
+                        "1": {
+                            "ColumnBegin": 0,
+                            "ColumnEnd": 0,
+                            "FilePath": "./Core/Src/main.c",
+                            "LineBegin": 1,
+                            "LineEnd": 1
+                        },
+                        "2": {
+                            "ColumnBegin": 15,
+                            "ColumnEnd": 15,
+                            "FilePath": "./Core/Src/main.c",
+                            "LineBegin": 87,
+                            "LineEnd": 87
+                        },
+                        "3": {
+                            "ColumnBegin": 5,
+                            "ColumnEnd": 23,
+                            "FilePath": "./Core/Src/main.c",
+                            "LineBegin": 125,
+                            "LineEnd": 125
+                        },
+                        "4": {
+                            "ColumnBegin": 46,
+                            "ColumnEnd": 46,
+                            "FilePath": "./Core/Src/main.c",
+                            "LineBegin": 138,
+                            "LineEnd": 138
+                        },
+                        "5": {
+                            "ColumnBegin": 8,
+                            "ColumnEnd": 30,
+                            "FilePath": "./Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h",
+                            "LineBegin": 108,
+                            "LineEnd": 108
+                        },
+                        "size": 6
+                    },
+                    "index": 5
+                },
+                "MiscSaveStates": {
+                    "entitySelected": "@l.global@s.global@p@l./Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc/startup_stm32f423xx.s",
+                    "ib": "entity:||:@lRCC_OSCILLATORTYPE_HSI@kc5RCC_OSCILLATORTYPE_HSI=0x00000002U@f./Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h",
+                    "projectOverviewCharts": "true",
+                    "projectOverviewChartsPosition": 1,
+                    "projectOverviewChartsSelected": "false",
+                    "projectOverviewChartsWorkspace": 0,
+                    "selection": "stm32f4xx_hal_rcc.h"
+                },
+                "ProjectUI": {
+                    "projectview": [
+                        "Core",
+                        "Core/Src"
+                    ],
+                    "projectviewcuritem": "Core/Src/main.c",
+                    "projectviewselection": [
+                        "Core/Src/main.c"
+                    ]
+                },
+                "SplitWorkspace1SelectedTab": "./Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h",
+                "SplitWorkspace1Tabs": [
+                    "./Core/Src/main.c",
+                    "./Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h"
+                ],
+                "SplittableWorkspace": {
+                    "active workspace": 0,
+                    "primary ws size": 2032,
+                    "split orientation": -1
+                },
+                "analysis": {
+                    "background": {
+                        "started": true
+                    }
+                },
+                "projectconfigure": {
+                    "last config panel": "C++"
+                }
+            }
+        }
+    }
+}

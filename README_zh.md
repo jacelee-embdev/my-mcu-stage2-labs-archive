@@ -30,6 +30,7 @@
 | 008 | [FreeRTOS_Software_Interrupt](008_FreeRTOS_Software_Interrupt/README_zh.md) | 通过 NVIC 软件挂起中断，并在线程上下文输出测试日志。 |
 | 009 | [FreeRTOS_Button_EXTI_V1](009_FreeRTOS_Button_EXTI_V1/README_zh.md) | 使用 EXTI 边沿事件与线程状态机识别单个按键的短按、长按。 |
 | 010 | [FreeRTOS_Button_EXTI_V2](010_FreeRTOS_Button_EXTI_V2/README_zh.md) | 为两个按键维护独立 EXTI 状态机，并通过队列控制 LED。 |
+| 011 | [FreeRTOS_Button_Timer_LED_Control](011_FreeRTOS_Button_Timer_LED_Control/README_zh.md) | 将按键事件映射为 LED 命令，并通过 TIM2 中断驱动翻转。 |
 
 ## 使用说明
 
