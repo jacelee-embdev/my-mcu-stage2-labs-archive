@@ -78,6 +78,7 @@ Select a project name to open its English documentation.
 | 056 | [SCT_Flash_SRAM_Execution_Test](056_SCT_Flash_SRAM_Execution_Test/README.md) | Place functions in separate Flash regions and SRAM using SCT, then inspect layout and timing. |
 | 057 | [Ozone_HardFault_Debug_Test](057_Ozone_HardFault_Debug_Test/README.md) | Reproduce fault scenarios and inspect exception state using Ozone or Keil. |
 | 058 | [FreeRTOS_SystemView_Template](058_FreeRTOS_SystemView_Template/README.md) | Integrate SystemView tracing to inspect FreeRTOS thread execution. |
+| 059 | [Manual_RW_ZI_Relocation](059_Manual_RW_ZI_Relocation/README.md) | Bypass __main and manually initialize RW and ZI to study startup and relocation. |
 
 ## Usage
 
