@@ -49,6 +49,7 @@
 | 027 | [UART_DMA_Idle_Frame_Parser](027_UART_DMA_Idle_Frame_Parser/README_zh.md) | 使用 UART DMA 循环接收与空闲检测解析变长数据帧。 |
 | 028 | [HAL_Bootloader_APP_Jump](028_HAL_Bootloader_APP_Jump/README_zh.md) | 在 HAL Bootloader 与 APP 之间验证启动跳转。 |
 | 029 | [SPL_RTT_EasyLogger_Template](029_SPL_RTT_EasyLogger_Template/README_zh.md) | 搭建基于 SPL、RTT 和 EasyLogger 的基础工程。 |
+| 030 | [SPL_Bootloader_APP_Jump](030_SPL_Bootloader_APP_Jump/README_zh.md) | 验证 SPL Bootloader 向独立 APP 的基本跳转。 |
 
 ## 使用说明
 
