@@ -53,6 +53,7 @@ Select a project name to open its English documentation.
 | 031 | [Bootloader_Peripheral_Drivers](031_Bootloader_Peripheral_Drivers/README.md) | Integrate UART, button, and status drivers for a bootloader. |
 | 032 | [Bootloader_YMODEM_Test](032_Bootloader_YMODEM_Test/README.md) | Test YMODEM file reception in a bootloader. |
 | 033 | [Bootloader_YMODEM_APP_Install](033_Bootloader_YMODEM_APP_Install/README.md) | Receive an application over YMODEM, install it in internal Flash, and boot it. |
+| 034 | [Bootloader_Internal_Flash_Staging](034_Bootloader_Internal_Flash_Staging/README.md) | Stage new firmware in internal Flash, copy it to the execution partition, and boot it. |
 
 ## Usage
 
