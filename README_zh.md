@@ -73,6 +73,7 @@
 | 051 | [Hardware_Crypto_Chip_Test](051_Hardware_Crypto_Chip_Test/README_zh.md) | 测试硬件加密芯片的密钥写入、认证、加解密和存储访问。 |
 | 052 | [Encrypted_OTA_Integrated_Project](052_Encrypted_OTA_Integrated_Project/README_zh.md) | 集成并整理完整的加密固件升级、备份和恢复工程。 |
 | 053 | [Function_Call_Stack_HardFault_Test](053_Function_Call_Stack_HardFault_Test/README_zh.md) | 通过两个独立实验观察函数调用栈和 HardFault 现场。 |
+| 054 | [FreeRTOS_CmBacktrace_Template](054_FreeRTOS_CmBacktrace_Template/README_zh.md) | 集成 CmBacktrace、FreeRTOS、RTT 与日志，建立故障诊断模板。 |
 
 ## 使用说明
 

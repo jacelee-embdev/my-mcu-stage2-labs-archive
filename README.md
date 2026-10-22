@@ -73,6 +73,7 @@ Select a project name to open its English documentation.
 | 051 | [Hardware_Crypto_Chip_Test](051_Hardware_Crypto_Chip_Test/README.md) | Test key programming, authentication, cryptography, and storage access on a hardware crypto chip. |
 | 052 | [Encrypted_OTA_Integrated_Project](052_Encrypted_OTA_Integrated_Project/README.md) | Integrate encrypted firmware updates with backup and recovery. |
 | 053 | [Function_Call_Stack_HardFault_Test](053_Function_Call_Stack_HardFault_Test/README.md) | Inspect function call stacks and HardFault state in two standalone experiments. |
+| 054 | [FreeRTOS_CmBacktrace_Template](054_FreeRTOS_CmBacktrace_Template/README.md) | Integrate CmBacktrace, FreeRTOS, RTT, and logging in a fault-diagnosis template. |
 
 ## Usage
 
