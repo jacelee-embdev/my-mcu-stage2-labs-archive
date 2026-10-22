@@ -63,6 +63,7 @@
 | 041 | [APP_YMODEM_Receive_Test](041_APP_YMODEM_Receive_Test/README_zh.md) | 在 APP 中集成 YMODEM，验证数据包接收流程。 |
 | 042 | [APP_OTA_Workflow_Test](042_APP_OTA_Workflow_Test/README_zh.md) | 验证 APP 侧固件接收、状态记录与复位升级流程。 |
 | 043 | [Bootloader_AT24C02_EEPROM_Test](043_Bootloader_AT24C02_EEPROM_Test/README_zh.md) | 在 Bootloader 中集成并验证 AT24C02 EEPROM 驱动。 |
+| 044 | [Encrypted_OTA_Upgrade](044_Encrypted_OTA_Upgrade/README_zh.md) | 组合 Bootloader、APP1 和 APP2，完成加密 OTA 与备份恢复。 |
 
 ## 使用说明
 
