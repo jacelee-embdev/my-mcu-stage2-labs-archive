@@ -33,6 +33,7 @@
 | 011 | [FreeRTOS_Button_Timer_LED_Control](011_FreeRTOS_Button_Timer_LED_Control/README_zh.md) | 将按键事件映射为 LED 命令，并通过 TIM2 中断驱动翻转。 |
 | 012 | [FreeRTOS_Interrupt_Response_Comparison](012_FreeRTOS_Interrupt_Response_Comparison/README_zh.md) | 比较队列按值复制与传递指针对中断响应路径的影响。 |
 | 013 | [SEGGER_RTT_Demo](013_SEGGER_RTT_Demo/README_zh.md) | 移植 SEGGER RTT，使用 RTT 接口和标准 printf 输出调试信息。 |
+| 014 | [EasyLogger_UART_Port](014_EasyLogger_UART_Port/README_zh.md) | 移植 EasyLogger，通过 UART 输出分级彩色日志。 |
 
 ## 使用说明
 

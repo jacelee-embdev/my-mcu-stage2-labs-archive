@@ -33,6 +33,7 @@ Select a project name to open its English documentation.
 | 011 | [FreeRTOS_Button_Timer_LED_Control](011_FreeRTOS_Button_Timer_LED_Control/README.md) | Map button events to LED commands and drive toggling with TIM2 interrupts. |
 | 012 | [FreeRTOS_Interrupt_Response_Comparison](012_FreeRTOS_Interrupt_Response_Comparison/README.md) | Compare value and pointer queue transfers in an interrupt response path. |
 | 013 | [SEGGER_RTT_Demo](013_SEGGER_RTT_Demo/README.md) | Integrate SEGGER RTT for direct RTT and standard printf debug output. |
+| 014 | [EasyLogger_UART_Port](014_EasyLogger_UART_Port/README.md) | Port EasyLogger for leveled, colored UART logging. |
 
 ## Usage
 
