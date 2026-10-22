@@ -56,6 +56,7 @@
 | 034 | [Bootloader_Internal_Flash_Staging](034_Bootloader_Internal_Flash_Staging/README_zh.md) | 将新固件暂存于内部 Flash，再复制到执行分区并启动。 |
 | 035 | [AES_Encryption_Decryption_Test](035_AES_Encryption_Decryption_Test/README_zh.md) | 验证 AES 加密、解密及数据往返一致性。 |
 | 036 | [Bootloader_AES_Firmware_Upgrade](036_Bootloader_AES_Firmware_Upgrade/README_zh.md) | 在 Bootloader 中接收、解密并安装加密固件。 |
+| 037 | [Bootloader_W25Q64_Driver_Test](037_Bootloader_W25Q64_Driver_Test/README_zh.md) | 移植 W25Q64 驱动，验证外部 Flash 读写与擦除。 |
 
 ## 使用说明
 

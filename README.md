@@ -56,6 +56,7 @@ Select a project name to open its English documentation.
 | 034 | [Bootloader_Internal_Flash_Staging](034_Bootloader_Internal_Flash_Staging/README.md) | Stage new firmware in internal Flash, copy it to the execution partition, and boot it. |
 | 035 | [AES_Encryption_Decryption_Test](035_AES_Encryption_Decryption_Test/README.md) | Verify AES encryption, decryption, and round-trip data consistency. |
 | 036 | [Bootloader_AES_Firmware_Upgrade](036_Bootloader_AES_Firmware_Upgrade/README.md) | Receive, decrypt, and install encrypted firmware in a bootloader. |
+| 037 | [Bootloader_W25Q64_Driver_Test](037_Bootloader_W25Q64_Driver_Test/README.md) | Port a W25Q64 driver and verify external Flash read, write, and erase operations. |
 
 ## Usage
 
