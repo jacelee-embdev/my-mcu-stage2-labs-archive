@@ -46,6 +46,7 @@
 | 024 | [UART_Interrupt_Double_Buffer_Parser](024_UART_Interrupt_Double_Buffer_Parser/README_zh.md) | 通过 UART 中断和双缓冲接收定长数据并解析帧。 |
 | 025 | [UART_DMA_Fixed_Length_Double_Buffer_Parser](025_UART_DMA_Fixed_Length_Double_Buffer_Parser/README_zh.md) | 使用 UART DMA 定长双缓冲接收并解析数据帧。 |
 | 026 | [UART_DMA_HT_TC_Idle_Test](026_UART_DMA_HT_TC_Idle_Test/README_zh.md) | 测试 UART DMA 的半传输、全传输与空闲事件。 |
+| 027 | [UART_DMA_Idle_Frame_Parser](027_UART_DMA_Idle_Frame_Parser/README_zh.md) | 使用 UART DMA 循环接收与空闲检测解析变长数据帧。 |
 
 ## 使用说明
 

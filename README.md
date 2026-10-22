@@ -46,6 +46,7 @@ Select a project name to open its English documentation.
 | 024 | [UART_Interrupt_Double_Buffer_Parser](024_UART_Interrupt_Double_Buffer_Parser/README.md) | Receive fixed-length UART data with interrupts and double buffers for frame parsing. |
 | 025 | [UART_DMA_Fixed_Length_Double_Buffer_Parser](025_UART_DMA_Fixed_Length_Double_Buffer_Parser/README.md) | Parse frames from fixed-length UART DMA reception using double buffers. |
 | 026 | [UART_DMA_HT_TC_Idle_Test](026_UART_DMA_HT_TC_Idle_Test/README.md) | Test UART DMA half-transfer, transfer-complete, and idle events. |
+| 027 | [UART_DMA_Idle_Frame_Parser](027_UART_DMA_Idle_Frame_Parser/README.md) | Parse variable-length frames using circular UART DMA reception and idle detection. |
 
 ## Usage
 
