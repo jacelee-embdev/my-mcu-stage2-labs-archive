@@ -58,6 +58,7 @@
 | 036 | [Bootloader_AES_Firmware_Upgrade](036_Bootloader_AES_Firmware_Upgrade/README_zh.md) | 在 Bootloader 中接收、解密并安装加密固件。 |
 | 037 | [Bootloader_W25Q64_Driver_Test](037_Bootloader_W25Q64_Driver_Test/README_zh.md) | 移植 W25Q64 驱动，验证外部 Flash 读写与擦除。 |
 | 038 | [Bootloader_External_Flash_Upgrade](038_Bootloader_External_Flash_Upgrade/README_zh.md) | 将固件暂存迁移到外部 Flash，完成解密安装与启动。 |
+| 039 | [APP_AT24C02_EEPROM_Test](039_APP_AT24C02_EEPROM_Test/README_zh.md) | 在 APP 中集成 AT24C02 EEPROM 并测试读写。 |
 
 ## 使用说明
 
