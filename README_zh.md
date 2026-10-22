@@ -25,6 +25,7 @@
 | 003 | [FreeRTOS_UART_Printf](003_FreeRTOS_UART_Printf/README_zh.md) | FreeRTOS 默认线程轮询按键、翻转 LED，并通过 UART 输出测试信息。 |
 | 004 | [FreeRTOS_Printf_Thread_Safety](004_FreeRTOS_Printf_Thread_Safety/README_zh.md) | 通过多个线程并发打印，观察字符级调度保护与整行输出的差异。 |
 | 005 | [Keil_Debug_Basics](005_Keil_Debug_Basics/README_zh.md) | 使用周期串口输出练习 Keil 断点、单步及变量观察。 |
+| 006 | [FreeRTOS_Queue_LED_Control](006_FreeRTOS_Queue_LED_Control/README_zh.md) | 通过按键队列、中继线程和 LED 队列解耦按键与灯控制。 |
 
 ## 使用说明
 
