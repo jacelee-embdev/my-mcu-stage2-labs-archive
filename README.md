@@ -29,6 +29,7 @@ Select a project name to open its English documentation.
 | 007 | [FreeRTOS_Button_Short_Long_Press](007_FreeRTOS_Button_Short_Long_Press/README.md) | Handle short and long button presses through FreeRTOS threads and queues. |
 | 008 | [FreeRTOS_Software_Interrupt](008_FreeRTOS_Software_Interrupt/README.md) | Pend a software interrupt through NVIC and report the result from thread context. |
 | 009 | [FreeRTOS_Button_EXTI_V1](009_FreeRTOS_Button_EXTI_V1/README.md) | Classify short and long presses using EXTI edge events and a thread state machine. |
+| 010 | [FreeRTOS_Button_EXTI_V2](010_FreeRTOS_Button_EXTI_V2/README.md) | Control an LED with independent EXTI state machines for two buttons. |
 
 ## Usage
 

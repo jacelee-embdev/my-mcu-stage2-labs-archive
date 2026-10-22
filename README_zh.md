@@ -29,6 +29,7 @@
 | 007 | [FreeRTOS_Button_Short_Long_Press](007_FreeRTOS_Button_Short_Long_Press/README_zh.md) | 通过 FreeRTOS 线程和队列实现短按翻转、长按闪烁。 |
 | 008 | [FreeRTOS_Software_Interrupt](008_FreeRTOS_Software_Interrupt/README_zh.md) | 通过 NVIC 软件挂起中断，并在线程上下文输出测试日志。 |
 | 009 | [FreeRTOS_Button_EXTI_V1](009_FreeRTOS_Button_EXTI_V1/README_zh.md) | 使用 EXTI 边沿事件与线程状态机识别单个按键的短按、长按。 |
+| 010 | [FreeRTOS_Button_EXTI_V2](010_FreeRTOS_Button_EXTI_V2/README_zh.md) | 为两个按键维护独立 EXTI 状态机，并通过队列控制 LED。 |
 
 ## 使用说明
 
