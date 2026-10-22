@@ -48,6 +48,7 @@ Select a project name to open its English documentation.
 | 026 | [UART_DMA_HT_TC_Idle_Test](026_UART_DMA_HT_TC_Idle_Test/README.md) | Test UART DMA half-transfer, transfer-complete, and idle events. |
 | 027 | [UART_DMA_Idle_Frame_Parser](027_UART_DMA_Idle_Frame_Parser/README.md) | Parse variable-length frames using circular UART DMA reception and idle detection. |
 | 028 | [HAL_Bootloader_APP_Jump](028_HAL_Bootloader_APP_Jump/README.md) | Verify application jumps from a HAL-based bootloader. |
+| 029 | [SPL_RTT_EasyLogger_Template](029_SPL_RTT_EasyLogger_Template/README.md) | Build a base project using SPL, RTT, and EasyLogger. |
 
 ## Usage
 
