@@ -71,6 +71,7 @@ Select a project name to open its English documentation.
 | 049 | [OTA_SFUD_Flash_Integration](049_OTA_SFUD_Flash_Integration/README.md) | Integrate SFUD to reduce OTA coupling to a specific Flash driver. |
 | 050 | [Bootloader_Resource_Optimization](050_Bootloader_Resource_Optimization/README.md) | Trim EasyLogger and SFUD features to reduce bootloader resource usage. |
 | 051 | [Hardware_Crypto_Chip_Test](051_Hardware_Crypto_Chip_Test/README.md) | Test key programming, authentication, cryptography, and storage access on a hardware crypto chip. |
+| 052 | [Encrypted_OTA_Integrated_Project](052_Encrypted_OTA_Integrated_Project/README.md) | Integrate encrypted firmware updates with backup and recovery. |
 
 ## Usage
 

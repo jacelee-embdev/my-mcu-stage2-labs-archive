@@ -1,0 +1,49 @@
+# Local assistant and editor configuration
+.agent/
+.agents/
+.vscode/
+
+# Reproducible compiler and linker outputs
+*.o
+*.d
+*.dep
+*.crf
+*.lnp
+*.lst
+*.map
+*.axf
+
+# Reproducible firmware outputs
+*.bin
+*.hex
+*.mxxx
+
+# Superseded scatter-file backups
+*_sct.[Bb][Aa][Kk]
+
+# Generated build and debugger logs
+*.build_log.htm
+UV4_cli_output.htm
+JLinkLog.txt
+JLinkDebugLog.txt
+
+# Keep project options, GUI state, debug configuration, libraries,
+# active scatter files and required empty-directory placeholders.
+
+/01_Bootloader/06_MDK-ARM/Objects/STM32F411CEU6_SPL.htm
+/02_APP1/MDK-ARM/Objects/STM32F411CEU6.htm
+/02_APP2/MDK-ARM/Objects/STM32F411CEU6.htm
+
+# Required project inputs and explicitly retained user configuration
+!*.uvprojx
+!*.uvoptx
+!*.uvguix.*
+!*.uvgui.*
+!*.dbgconf
+!JLinkSettings.ini
+!*.scvd
+!*.ioc
+!.mxproject
+!*.sct
+!*.lib
+!.gitkeep
