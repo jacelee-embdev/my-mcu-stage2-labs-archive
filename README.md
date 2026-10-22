@@ -22,6 +22,7 @@ Select a project name to open its English documentation.
 |---:|---|---|
 | 001 | [Button_LED_CubeMX_V1](001_Button_LED_CubeMX_V1/README.md) | Poll a button to toggle an LED in a CubeMX project, with periodic UART test output. |
 | 002 | [Button_LED_Template_V2](002_Button_LED_Template_V2/README.md) | Poll a button to toggle an LED using a custom HAL template with separate BSP and system drivers. |
+| 003 | [FreeRTOS_UART_Printf](003_FreeRTOS_UART_Printf/README.md) | Poll a button, toggle an LED, and print UART messages from a FreeRTOS thread. |
 
 ## Usage
 
