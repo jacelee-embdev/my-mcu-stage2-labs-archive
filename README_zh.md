@@ -21,6 +21,7 @@
 | 编号 | 工程 | 实现内容 |
 |---:|---|---|
 | 001 | [Button_LED_CubeMX_V1](001_Button_LED_CubeMX_V1/README_zh.md) | 在 CubeMX 工程中轮询按键并翻转 LED，串口周期输出测试信息。 |
+| 002 | [Button_LED_Template_V2](002_Button_LED_Template_V2/README_zh.md) | 基于自建 HAL 模板封装按键和 LED 驱动，通过主循环轮询控制 LED 翻转。 |
 
 ## 使用说明
 
