@@ -54,6 +54,7 @@
 | 032 | [Bootloader_YMODEM_Test](032_Bootloader_YMODEM_Test/README_zh.md) | 在 Bootloader 中测试 YMODEM 文件传输协议。 |
 | 033 | [Bootloader_YMODEM_APP_Install](033_Bootloader_YMODEM_APP_Install/README_zh.md) | 通过 YMODEM 接收 APP，写入内部 Flash 并跳转运行。 |
 | 034 | [Bootloader_Internal_Flash_Staging](034_Bootloader_Internal_Flash_Staging/README_zh.md) | 将新固件暂存于内部 Flash，再复制到执行分区并启动。 |
+| 035 | [AES_Encryption_Decryption_Test](035_AES_Encryption_Decryption_Test/README_zh.md) | 验证 AES 加密、解密及数据往返一致性。 |
 
 ## 使用说明
 
