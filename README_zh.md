@@ -47,6 +47,7 @@
 | 025 | [UART_DMA_Fixed_Length_Double_Buffer_Parser](025_UART_DMA_Fixed_Length_Double_Buffer_Parser/README_zh.md) | 使用 UART DMA 定长双缓冲接收并解析数据帧。 |
 | 026 | [UART_DMA_HT_TC_Idle_Test](026_UART_DMA_HT_TC_Idle_Test/README_zh.md) | 测试 UART DMA 的半传输、全传输与空闲事件。 |
 | 027 | [UART_DMA_Idle_Frame_Parser](027_UART_DMA_Idle_Frame_Parser/README_zh.md) | 使用 UART DMA 循环接收与空闲检测解析变长数据帧。 |
+| 028 | [HAL_Bootloader_APP_Jump](028_HAL_Bootloader_APP_Jump/README_zh.md) | 在 HAL Bootloader 与 APP 之间验证启动跳转。 |
 
 ## 使用说明
 
