@@ -36,6 +36,7 @@
 | 014 | [EasyLogger_UART_Port](014_EasyLogger_UART_Port/README_zh.md) | 移植 EasyLogger，通过 UART 输出分级彩色日志。 |
 | 015 | [RTT_EasyLogger_Template_V1](015_RTT_EasyLogger_Template_V1/README_zh.md) | 组合 RTT 和 EasyLogger，形成裸机调试输出模板。 |
 | 016 | [FreeRTOS_RTT_EasyLogger_Template_V2](016_FreeRTOS_RTT_EasyLogger_Template_V2/README_zh.md) | 集成 FreeRTOS、RTT 和 EasyLogger，统一线程与日志入口。 |
+| 017 | [UART_Interrupt_DMA_RX_Comparison](017_UART_Interrupt_DMA_RX_Comparison/README_zh.md) | 比较 UART 中断与 DMA 接收的 CPU 开销及业务耗时。 |
 
 ## 使用说明
 
