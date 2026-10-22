@@ -4,7 +4,7 @@
 
 # STM32F411CEU6 Button LED Control (CubeMX V1)
 
-This project implements the first approach to the first assignment. Built from an STM32CubeMX-generated HAL project, it introduces GPIO input/output, UART printing, and polling in the main loop. HSI and the PLL configure the system clock to 100 MHz. The CubeMX configuration is retained for comparing graphical settings with the initialization code.
+This project records the learning process of controlling an LED with a button using STM32CubeMX and the HAL library. It covers GPIO input/output, UART printing, and polling in the main loop. HSI and the PLL configure the system clock to 100 MHz. The CubeMX configuration is retained for comparing graphical settings with the initialization code.
 
 ## Experiment
 
