@@ -37,6 +37,7 @@ Select a project name to open its English documentation.
 | 015 | [RTT_EasyLogger_Template_V1](015_RTT_EasyLogger_Template_V1/README.md) | Combine RTT and EasyLogger in a bare-metal logging template. |
 | 016 | [FreeRTOS_RTT_EasyLogger_Template_V2](016_FreeRTOS_RTT_EasyLogger_Template_V2/README.md) | Integrate FreeRTOS, RTT, and EasyLogger with a common thread initialization entry. |
 | 017 | [UART_Interrupt_DMA_RX_Comparison](017_UART_Interrupt_DMA_RX_Comparison/README.md) | Compare CPU overhead and workload timing for interrupt-driven and DMA UART reception. |
+| 018 | [DMA_Memory_To_GPIO](018_DMA_Memory_To_GPIO/README.md) | Transfer memory data to GPIO with DMA and inspect the resulting waveform. |
 
 ## Usage
 
