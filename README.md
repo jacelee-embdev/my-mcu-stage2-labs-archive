@@ -59,6 +59,7 @@ Select a project name to open its English documentation.
 | 037 | [Bootloader_W25Q64_Driver_Test](037_Bootloader_W25Q64_Driver_Test/README.md) | Port a W25Q64 driver and verify external Flash read, write, and erase operations. |
 | 038 | [Bootloader_External_Flash_Upgrade](038_Bootloader_External_Flash_Upgrade/README.md) | Move firmware staging to external Flash for decryption, installation, and boot. |
 | 039 | [APP_AT24C02_EEPROM_Test](039_APP_AT24C02_EEPROM_Test/README.md) | Integrate and test AT24C02 EEPROM access in an application. |
+| 040 | [APP_W25Q_Flash_Test](040_APP_W25Q_Flash_Test/README.md) | Integrate and test W25Q external Flash access in an application. |
 
 ## Usage
 
