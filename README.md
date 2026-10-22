@@ -65,6 +65,7 @@ Select a project name to open its English documentation.
 | 043 | [Bootloader_AT24C02_EEPROM_Test](043_Bootloader_AT24C02_EEPROM_Test/README.md) | Integrate and verify an AT24C02 EEPROM driver in a bootloader. |
 | 044 | [Encrypted_OTA_Upgrade](044_Encrypted_OTA_Upgrade/README.md) | Combine a bootloader, APP1, and APP2 for encrypted OTA updates and backup recovery. |
 | 045 | [Bootloader_Compiler_Optimization](045_Bootloader_Compiler_Optimization/README.md) | Use build analysis to compare compiler optimization levels for the bootloader. |
+| 046 | [OTA_YMODEM_Frame_CRC](046_OTA_YMODEM_Frame_CRC/README.md) | Add CRC-16/XMODEM frame validation to encrypted OTA transfers over YMODEM. |
 
 ## Usage
 

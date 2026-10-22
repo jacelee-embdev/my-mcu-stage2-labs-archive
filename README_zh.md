@@ -65,6 +65,7 @@
 | 043 | [Bootloader_AT24C02_EEPROM_Test](043_Bootloader_AT24C02_EEPROM_Test/README_zh.md) | 在 Bootloader 中集成并验证 AT24C02 EEPROM 驱动。 |
 | 044 | [Encrypted_OTA_Upgrade](044_Encrypted_OTA_Upgrade/README_zh.md) | 组合 Bootloader、APP1 和 APP2，完成加密 OTA 与备份恢复。 |
 | 045 | [Bootloader_Compiler_Optimization](045_Bootloader_Compiler_Optimization/README_zh.md) | 利用构建分析工具比较编译优化等级对 Bootloader 的影响。 |
+| 046 | [OTA_YMODEM_Frame_CRC](046_OTA_YMODEM_Frame_CRC/README_zh.md) | 为加密 OTA 的 YMODEM 数据帧加入 CRC-16/XMODEM 校验。 |
 
 ## 使用说明
 
