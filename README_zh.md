@@ -50,6 +50,7 @@
 | 028 | [HAL_Bootloader_APP_Jump](028_HAL_Bootloader_APP_Jump/README_zh.md) | 在 HAL Bootloader 与 APP 之间验证启动跳转。 |
 | 029 | [SPL_RTT_EasyLogger_Template](029_SPL_RTT_EasyLogger_Template/README_zh.md) | 搭建基于 SPL、RTT 和 EasyLogger 的基础工程。 |
 | 030 | [SPL_Bootloader_APP_Jump](030_SPL_Bootloader_APP_Jump/README_zh.md) | 验证 SPL Bootloader 向独立 APP 的基本跳转。 |
+| 031 | [Bootloader_Peripheral_Drivers](031_Bootloader_Peripheral_Drivers/README_zh.md) | 集成 Bootloader 所需的串口、按键及状态指示驱动。 |
 
 ## 使用说明
 
