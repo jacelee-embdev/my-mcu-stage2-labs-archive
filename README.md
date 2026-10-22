@@ -51,6 +51,7 @@ Select a project name to open its English documentation.
 | 029 | [SPL_RTT_EasyLogger_Template](029_SPL_RTT_EasyLogger_Template/README.md) | Build a base project using SPL, RTT, and EasyLogger. |
 | 030 | [SPL_Bootloader_APP_Jump](030_SPL_Bootloader_APP_Jump/README.md) | Verify basic jumps from an SPL bootloader to a standalone application. |
 | 031 | [Bootloader_Peripheral_Drivers](031_Bootloader_Peripheral_Drivers/README.md) | Integrate UART, button, and status drivers for a bootloader. |
+| 032 | [Bootloader_YMODEM_Test](032_Bootloader_YMODEM_Test/README.md) | Test YMODEM file reception in a bootloader. |
 
 ## Usage
 
