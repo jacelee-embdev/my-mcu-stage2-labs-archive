@@ -34,6 +34,7 @@ Select a project name to open its English documentation.
 | 012 | [FreeRTOS_Interrupt_Response_Comparison](012_FreeRTOS_Interrupt_Response_Comparison/README.md) | Compare value and pointer queue transfers in an interrupt response path. |
 | 013 | [SEGGER_RTT_Demo](013_SEGGER_RTT_Demo/README.md) | Integrate SEGGER RTT for direct RTT and standard printf debug output. |
 | 014 | [EasyLogger_UART_Port](014_EasyLogger_UART_Port/README.md) | Port EasyLogger for leveled, colored UART logging. |
+| 015 | [RTT_EasyLogger_Template_V1](015_RTT_EasyLogger_Template_V1/README.md) | Combine RTT and EasyLogger in a bare-metal logging template. |
 
 ## Usage
 
