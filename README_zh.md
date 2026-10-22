@@ -32,6 +32,7 @@
 | 010 | [FreeRTOS_Button_EXTI_V2](010_FreeRTOS_Button_EXTI_V2/README_zh.md) | 为两个按键维护独立 EXTI 状态机，并通过队列控制 LED。 |
 | 011 | [FreeRTOS_Button_Timer_LED_Control](011_FreeRTOS_Button_Timer_LED_Control/README_zh.md) | 将按键事件映射为 LED 命令，并通过 TIM2 中断驱动翻转。 |
 | 012 | [FreeRTOS_Interrupt_Response_Comparison](012_FreeRTOS_Interrupt_Response_Comparison/README_zh.md) | 比较队列按值复制与传递指针对中断响应路径的影响。 |
+| 013 | [SEGGER_RTT_Demo](013_SEGGER_RTT_Demo/README_zh.md) | 移植 SEGGER RTT，使用 RTT 接口和标准 printf 输出调试信息。 |
 
 ## 使用说明
 
