@@ -1,0 +1,183 @@
+
+=================================================== keil-build-viewer v1.6 ==================================================
+ 
+[Search keil project] 1 item(s)
+	C:\Users\Administrator\Desktop\task048_PerfOpt_Architecture\03_Firmware\01_Bootloader\MDK-ARM\STM32F411CEU6_SPL.uvprojx
+
+[User input] 
+[Current folder] C:\Users\Administrator\Desktop\task048_PerfOpt_Architecture\03_Firmware\01_Bootloader\MDK-ARM
+[Encoding] 936
+[Keil project path] C:\Users\Administrator\Desktop\task048_PerfOpt_Architecture\03_Firmware\01_Bootloader\MDK-ARM\STM32F411CEU6_SPL.uvprojx
+[Keil project name] STM32F411CEU6_SPL.uvprojx
+[Is keil v4] 0
+[target name] Target 1
+[final target name] Target 1
+
+[Device] STM32F411CEUx
+[Target name] 
+[Output name] STM32F411CEU6_SPL
+[Output path] .\Objects\
+[Listing path] .\Listings\
+[Is has pack] 1
+[Is enbale LTO] 0
+[Is has user library] 0
+[Is custom scatter file] 1
+
+[STM32F411CEU6_SPL.uvprojx]  [Target 1]  [STM32F411CEUx]  [LTO disable]
+ 
+[memory info]
+[name] IRAM [base addr] 0x20000000 [size] 0x00020000 [type] 1 [off-chip] 0 [is pack] 1 [ID] 2 
+[name] IROM [base addr] 0x08000000 [size] 0x00080000 [type] 2 [off-chip] 0 [is pack] 1 [ID] 3 
+
+
+[map file path] C:\Users\Administrator\Desktop\task048_PerfOpt_Architecture\03_Firmware\01_Bootloader\MDK-ARM\Listings\STM32F411CEU6_SPL.map
+
+[region info]
+[load region] LR_IROM1
+	[execution region] ER_IROM1, 0x08000000, 0x00008000, 0x00004F38 [memory type] 2 [memory ID] 3
+
+	[execution region] RW_IRAM1, 0x20000000, 0x0001FFF0, 0x00005790 [memory type] 1 [memory ID] 2
+		[ZI block] addr: 0x200000AC, size: 0x000056E4 (22244)
+
+	[execution region] RW_NOINIT, 0x2001FFF0, 0x00000010, 0x00000004 [memory type] 1 [memory ID] 2
+		[ZI block] addr: 0x2001FFF0, size: 0x00000004 (4)
+
+
+[object name max length] 25
+[object path max length] 67
+
+[object in map file]
+[object name] aes.o                      [path] ..\Middlewares_User\Algorithms\AES\aes.c
+[object name] at24cxx.o                  [path] ..\BSP\AT24Cxx\at24cxx.c
+[object name] bootloader.o               [path] ..\Tasks\Bootloader\bootloader.c
+[object name] common.o                   [path] ..\Middlewares_User\Ymodem\common.c
+[object name] crcccitt.o                 [path] ..\Middlewares_User\CRC\src\crcccitt.c
+[object name] debug.o                    [path] ..\Tasks\Debug\debug.c
+[object name] delay.o                    [path] ..\SYSTEM\delay\delay.c
+[object name] elog.o                     [path] ..\Middlewares_User\EasyLogger\src\elog.c
+[object name] elog_port.o                [path] ..\Middlewares_User\EasyLogger\port\elog_port.c
+[object name] elog_utils.o               [path] ..\Middlewares_User\EasyLogger\src\elog_utils.c
+[object name] flash.o                    [path] ..\Core\Src\flash.c
+[object name] gpio.o                     [path] ..\Core\Src\gpio.c
+[object name] iic.o                      [path] ..\BSP\AT24Cxx\iic.c
+[object name] iwdg.o                     [path] ..\Core\Src\iwdg.c
+[object name] main.o                     [path] ..\Core\Src\main.c
+[object name] segger_rtt.o               [path] ..\Middlewares_User\SEGGER_RTT\SEGGER_RTT.c
+[object name] sfud.o                     [path] ..\Middlewares_User\SFUD\src\sfud.c
+[object name] sfud_adapter.o             [path] ..\Middlewares_User\SFUD\sfud_adapter.c
+[object name] sfud_port.o                [path] ..\Middlewares_User\SFUD\port\sfud_port.c
+[object name] spi.o                      [path] ..\Core\Src\spi.c
+[object name] startup_stm32f411xe.o      [path] ..\Core\startup_stm32f411xe.s
+[object name] stm32f4xx_flash.o          [path] ..\Drivers\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_flash.c
+[object name] stm32f4xx_gpio.o           [path] ..\Drivers\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c
+[object name] stm32f4xx_it.o             [path] ..\Core\Src\stm32f4xx_it.c
+[object name] stm32f4xx_iwdg.o           [path] ..\Drivers\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_iwdg.c
+[object name] stm32f4xx_rcc.o            [path] ..\Drivers\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c
+[object name] stm32f4xx_spi.o            [path] ..\Drivers\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c
+[object name] stm32f4xx_usart.o          [path] ..\Drivers\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c
+[object name] system_stm32f4xx.o         [path] ..\Core\Src\system_stm32f4xx.c
+[object name] usart.o                    [path] ..\Core\Src\usart.c
+[object name] w25qxx.o                   [path] ..\BSP\W25QXX\w25qxx.c
+[object name] w25qxx_handler.o           [path] ..\BSP\W25QXX\w25qxx_Handler.c
+[object name] ymodem.o                   [path] ..\Middlewares_User\Ymodem\ymodem.c
+
+[file path in keil project]
+[old name] w25qxx.c                   [type] 1   [path] ..\BSP\W25QXX\w25qxx.c
+[old name] w25qxx_Handler.c           [type] 1   [path] ..\BSP\W25QXX\w25qxx_Handler.c
+[old name] at24cxx.c                  [type] 1   [path] ..\BSP\AT24Cxx\at24cxx.c
+[old name] iic.c                      [type] 1   [path] ..\BSP\AT24Cxx\iic.c
+[old name] main.c                     [type] 1   [path] ..\Core\Src\main.c
+[old name] stm32f4xx_it.c             [type] 1   [path] ..\Core\Src\stm32f4xx_it.c
+[old name] system_stm32f4xx.c         [type] 1   [path] ..\Core\Src\system_stm32f4xx.c
+[old name] startup_stm32f411xe.s      [type] 1   [path] ..\Core\startup_stm32f411xe.s
+[old name] flash.c                    [type] 1   [path] ..\Core\Src\flash.c
+[old name] gpio.c                     [type] 1   [path] ..\Core\Src\gpio.c
+[old name] usart.c                    [type] 1   [path] ..\Core\Src\usart.c
+[old name] spi.c                      [type] 1   [path] ..\Core\Src\spi.c
+[old name] iwdg.c                     [type] 1   [path] ..\Core\Src\iwdg.c
+[old name] SEGGER_RTT.c               [type] 1   [path] ..\Middlewares_User\SEGGER_RTT\SEGGER_RTT.c
+[old name] SEGGER_RTT_printf.c        [type] 1   [path] ..\Middlewares_User\SEGGER_RTT\SEGGER_RTT_printf.c
+[old name] elog_port.c                [type] 1   [path] ..\Middlewares_User\EasyLogger\port\elog_port.c
+[old name] elog.c                     [type] 1   [path] ..\Middlewares_User\EasyLogger\src\elog.c
+[old name] elog_async.c               [type] 1   [path] ..\Middlewares_User\EasyLogger\src\elog_async.c
+[old name] elog_buf.c                 [type] 1   [path] ..\Middlewares_User\EasyLogger\src\elog_buf.c
+[old name] elog_utils.c               [type] 1   [path] ..\Middlewares_User\EasyLogger\src\elog_utils.c
+[old name] ymodem.c                   [type] 1   [path] ..\Middlewares_User\Ymodem\ymodem.c
+[old name] common.c                   [type] 1   [path] ..\Middlewares_User\Ymodem\common.c
+[old name] aes.c                      [type] 1   [path] ..\Middlewares_User\Algorithms\AES\aes.c
+[old name] crcccitt.c                 [type] 1   [path] ..\Middlewares_User\CRC\src\crcccitt.c
+[old name] sfud.c                     [type] 1   [path] ..\Middlewares_User\SFUD\src\sfud.c
+[old name] sfud_sfdp.c                [type] 1   [path] ..\Middlewares_User\SFUD\src\sfud_sfdp.c
+[old name] sfud_port.c                [type] 1   [path] ..\Middlewares_User\SFUD\port\sfud_port.c
+[old name] sfud_adapter.c             [type] 1   [path] ..\Middlewares_User\SFUD\sfud_adapter.c
+[old name] delay.c                    [type] 1   [path] ..\SYSTEM\delay\delay.c
+[old name] misc.c                     [type] 1   [path] ..\Drivers\STM32F4xx_StdPeriph_Driver\src\misc.c
+[old name] stm32f4xx_gpio.c           [type] 1   [path] ..\Drivers\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c
+[old name] stm32f4xx_rcc.c            [type] 1   [path] ..\Drivers\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c
+[old name] stm32f4xx_usart.c          [type] 1   [path] ..\Drivers\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c
+[old name] stm32f4xx_flash.c          [type] 1   [path] ..\Drivers\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_flash.c
+[old name] stm32f4xx_flash_ramfunc.c  [type] 1   [path] ..\Drivers\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_flash_ramfunc.c
+[old name] stm32f4xx_spi.c            [type] 1   [path] ..\Drivers\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c
+[old name] stm32f4xx_iwdg.c           [type] 1   [path] ..\Drivers\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_iwdg.c
+[old name] debug.c                    [type] 1   [path] ..\Tasks\Debug\debug.c
+[old name] bootloader.c               [type] 1   [path] ..\Tasks\Bootloader\bootloader.c
+
+[record region info]
+[load region] LR_IROM1
+	[execution region] ER_IROM1, 0x08000000, 0x00008000, 0x00004F38 [type] 2 [ID] 3
+	[execution region] RW_IRAM1, 0x20000000, 0x0001FFF0, 0x00005790 [type] 1 [ID] 2
+	[execution region] RW_NOINIT, 0x2001FFF0, 0x00000010, 0x00000004 [type] 1 [ID] 2
+-------------------------------------------------------------------------------------------------------------------------------
+                                 FILE(s)                                |         RAM (byte)       |       FLASH (byte)       |
+-------------------------------------------------------------------------------------------------------------------------------
+..\Middlewares_User\Algorithms\AES\aes.c():                             |         256              |        1388              |
+..\BSP\AT24Cxx\at24cxx.c():                                             |           0              |         242              |
+..\Tasks\Bootloader\bootloader.c():                                     |        9216              |        2456              |
+..\Middlewares_User\Ymodem\common.c():                                  |           0              |         224              |
+..\Middlewares_User\CRC\src\crcccitt.c():                               |         513              |         155              |
+..\Tasks\Debug\debug.c():                                               |           0              |          62              |
+..\SYSTEM\delay\delay.c():                                              |           8              |         152              |
+..\Middlewares_User\EasyLogger\src\elog.c():                            |         532              |        2076              |
+..\Middlewares_User\EasyLogger\port\elog_port.c():                      |           0              |          46              |
+..\Middlewares_User\EasyLogger\src\elog_utils.c():                      |           0              |         251              |
+..\Core\Src\flash.c():                                                  |           0              |         348              |
+..\Core\Src\gpio.c():                                                   |           0              |         152              |
+..\BSP\AT24Cxx\iic.c():                                                 |           0              |         592              |
+..\Core\Src\iwdg.c():                                                   |           0              |          38              |
+..\Core\Src\main.c():                                                   |           4              |         280              |
+..\Middlewares_User\SEGGER_RTT\SEGGER_RTT.c():                          |        1208              |         459              |
+..\Middlewares_User\SFUD\src\sfud.c():                                  |         329              |        3221              |
+..\Middlewares_User\SFUD\sfud_adapter.c():                              |          20              |          52              |
+..\Middlewares_User\SFUD\port\sfud_port.c():                            |           0              |         148              |
+..\Core\Src\spi.c():                                                    |           0              |         556              |
+..\Core\startup_stm32f411xe.s():                                        |        1024              |         444              |
+..\Drivers\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_flash.c():          |           0              |         310              |
+..\Drivers\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c():           |           0              |         204              |
+..\Core\Src\stm32f4xx_it.c():                                           |           4              |          36              |
+..\Drivers\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_iwdg.c():           |           0              |          68              |
+..\Drivers\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c():            |          16              |         316              |
+..\Drivers\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c():            |           0              |         104              |
+..\Drivers\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c():          |           0              |         214              |
+..\Core\Src\system_stm32f4xx.c():                                       |          20              |         332              |
+..\Core\Src\usart.c():                                                  |           0              |         182              |
+..\BSP\W25QXX\w25qxx.c():                                               |           0              |           0              |
+..\BSP\W25QXX\w25qxx_Handler.c():                                       |        8236              |         684              |
+..\Middlewares_User\Ymodem\ymodem.c():                                  |        1029              |         702              |
+-------------------------------------------------------------------------------------------------------------------------------
+[memory print mode]: 0
+LR_IROM1
+        RAM 1              [0x20000000 | 0x00020000 (131072)]
+                [zi start] 1   [zi end] 8
+                RW_IRAM1   [0x20000000]|¡ö¡õ¡õ¡õ¡õ¡õ¡õ¡õ__________________________________________| (  21.8 KB / 127.9 KB )  17.1%  
+                [zi start] 0   [zi end] 12
+                RW_NOINIT  [0x2001FFF0]|¡õ¡õ¡õ¡õ¡õ¡õ¡õ¡õ¡õ¡õ¡õ¡õ______________________________________| (        4 /       16 )  25.0%  
+ 
+        FLASH 1            [0x08000000 | 0x00080000 (524288)]
+                ER_IROM1   [0x08000000]|¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö____________________| (  19.8 KB /  32.0 KB )  61.9%  
+ 
+[htm file path] C:\Users\Administrator\Desktop\task048_PerfOpt_Architecture\03_Firmware\01_Bootloader\MDK-ARM\Objects\STM32F411CEU6_SPL.htm
+Maximum Stack Usage =        712 bytes + Unknown(Cycles, Untraceable Function Pointers)
+ 
+=============================================================================================================================
+
+run time: 0.099 s

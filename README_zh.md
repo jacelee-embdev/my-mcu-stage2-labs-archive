@@ -69,6 +69,7 @@
 | 047 | [OTA_IWDG_Boot_Confirmation](047_OTA_IWDG_Boot_Confirmation/README_zh.md) | 通过 IWDG 和首次启动确认验证新固件及失败恢复。 |
 | 048 | [Bootloader_Early_APP_Jump](048_Bootloader_Early_APP_Jump/README_zh.md) | 通过保留 RAM 请求与软件复位提前跳转 APP。 |
 | 049 | [OTA_SFUD_Flash_Integration](049_OTA_SFUD_Flash_Integration/README_zh.md) | 移植 SFUD，减少 OTA 业务对具体 Flash 驱动的依赖。 |
+| 050 | [Bootloader_Resource_Optimization](050_Bootloader_Resource_Optimization/README_zh.md) | 裁剪 EasyLogger、SFUD 等功能，降低 Bootloader 资源占用。 |
 
 ## 使用说明
 
