@@ -68,6 +68,7 @@
 | 046 | [OTA_YMODEM_Frame_CRC](046_OTA_YMODEM_Frame_CRC/README_zh.md) | 为加密 OTA 的 YMODEM 数据帧加入 CRC-16/XMODEM 校验。 |
 | 047 | [OTA_IWDG_Boot_Confirmation](047_OTA_IWDG_Boot_Confirmation/README_zh.md) | 通过 IWDG 和首次启动确认验证新固件及失败恢复。 |
 | 048 | [Bootloader_Early_APP_Jump](048_Bootloader_Early_APP_Jump/README_zh.md) | 通过保留 RAM 请求与软件复位提前跳转 APP。 |
+| 049 | [OTA_SFUD_Flash_Integration](049_OTA_SFUD_Flash_Integration/README_zh.md) | 移植 SFUD，减少 OTA 业务对具体 Flash 驱动的依赖。 |
 
 ## 使用说明
 

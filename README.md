@@ -68,6 +68,7 @@ Select a project name to open its English documentation.
 | 046 | [OTA_YMODEM_Frame_CRC](046_OTA_YMODEM_Frame_CRC/README.md) | Add CRC-16/XMODEM frame validation to encrypted OTA transfers over YMODEM. |
 | 047 | [OTA_IWDG_Boot_Confirmation](047_OTA_IWDG_Boot_Confirmation/README.md) | Use IWDG and first-start confirmation to validate new firmware and recover from failure. |
 | 048 | [Bootloader_Early_APP_Jump](048_Bootloader_Early_APP_Jump/README.md) | Jump to the application early using a retained RAM request and software reset. |
+| 049 | [OTA_SFUD_Flash_Integration](049_OTA_SFUD_Flash_Integration/README.md) | Integrate SFUD to reduce OTA coupling to a specific Flash driver. |
 
 ## Usage
 
