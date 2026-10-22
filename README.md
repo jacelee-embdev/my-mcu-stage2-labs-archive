@@ -60,6 +60,7 @@ Select a project name to open its English documentation.
 | 038 | [Bootloader_External_Flash_Upgrade](038_Bootloader_External_Flash_Upgrade/README.md) | Move firmware staging to external Flash for decryption, installation, and boot. |
 | 039 | [APP_AT24C02_EEPROM_Test](039_APP_AT24C02_EEPROM_Test/README.md) | Integrate and test AT24C02 EEPROM access in an application. |
 | 040 | [APP_W25Q_Flash_Test](040_APP_W25Q_Flash_Test/README.md) | Integrate and test W25Q external Flash access in an application. |
+| 041 | [APP_YMODEM_Receive_Test](041_APP_YMODEM_Receive_Test/README.md) | Integrate YMODEM in an application and verify packet reception. |
 
 ## Usage
 

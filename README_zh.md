@@ -60,6 +60,7 @@
 | 038 | [Bootloader_External_Flash_Upgrade](038_Bootloader_External_Flash_Upgrade/README_zh.md) | 将固件暂存迁移到外部 Flash，完成解密安装与启动。 |
 | 039 | [APP_AT24C02_EEPROM_Test](039_APP_AT24C02_EEPROM_Test/README_zh.md) | 在 APP 中集成 AT24C02 EEPROM 并测试读写。 |
 | 040 | [APP_W25Q_Flash_Test](040_APP_W25Q_Flash_Test/README_zh.md) | 在 APP 中集成 W25Q 外部 Flash 并测试访问。 |
+| 041 | [APP_YMODEM_Receive_Test](041_APP_YMODEM_Receive_Test/README_zh.md) | 在 APP 中集成 YMODEM，验证数据包接收流程。 |
 
 ## 使用说明
 
