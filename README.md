@@ -43,6 +43,7 @@ Select a project name to open its English documentation.
 | 021 | [PWM_DMA_WT588F02B_Control](021_PWM_DMA_WT588F02B_Control/README.md) | Generate WT588F02B voice-module control waveforms using PWM and DMA. |
 | 022 | [FreeRTOS_ADC_DMA_Double_Buffer](022_FreeRTOS_ADC_DMA_Double_Buffer/README.md) | Acquire and process ADC data with DMA double buffering under FreeRTOS. |
 | 023 | [FreeRTOS_ADC_DMA_Double_Buffer_Mutex](023_FreeRTOS_ADC_DMA_Double_Buffer_Mutex/README.md) | Coordinate ADC DMA double-buffer access with a mutex. |
+| 024 | [UART_Interrupt_Double_Buffer_Parser](024_UART_Interrupt_Double_Buffer_Parser/README.md) | Receive fixed-length UART data with interrupts and double buffers for frame parsing. |
 
 ## Usage
 
