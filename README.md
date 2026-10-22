@@ -39,6 +39,7 @@ Select a project name to open its English documentation.
 | 017 | [UART_Interrupt_DMA_RX_Comparison](017_UART_Interrupt_DMA_RX_Comparison/README.md) | Compare CPU overhead and workload timing for interrupt-driven and DMA UART reception. |
 | 018 | [DMA_Memory_To_GPIO](018_DMA_Memory_To_GPIO/README.md) | Transfer memory data to GPIO with DMA and inspect the resulting waveform. |
 | 019 | [UART_DMA_RX_To_SRAM](019_UART_DMA_RX_To_SRAM/README.md) | Receive UART data into SRAM through DMA and restart reception from its callback. |
+| 020 | [UART_DMA_FIFO_Burst](020_UART_DMA_FIFO_Burst/README.md) | Explore FIFO, burst, and buffer behavior in UART DMA reception. |
 
 ## Usage
 

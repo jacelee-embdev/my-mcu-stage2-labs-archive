@@ -39,6 +39,7 @@
 | 017 | [UART_Interrupt_DMA_RX_Comparison](017_UART_Interrupt_DMA_RX_Comparison/README_zh.md) | 比较 UART 中断与 DMA 接收的 CPU 开销及业务耗时。 |
 | 018 | [DMA_Memory_To_GPIO](018_DMA_Memory_To_GPIO/README_zh.md) | 通过 DMA 将内存数据写入 GPIO，并观察输出波形。 |
 | 019 | [UART_DMA_RX_To_SRAM](019_UART_DMA_RX_To_SRAM/README_zh.md) | 将 UART 数据通过 DMA 接收到 SRAM，并在回调中重新启动接收。 |
+| 020 | [UART_DMA_FIFO_Burst](020_UART_DMA_FIFO_Burst/README_zh.md) | 观察 UART DMA 的 FIFO、Burst 和缓冲区传输行为。 |
 
 ## 使用说明
 
