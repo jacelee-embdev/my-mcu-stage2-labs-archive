@@ -26,6 +26,7 @@ Select a project name to open its English documentation.
 | 004 | [FreeRTOS_Printf_Thread_Safety](004_FreeRTOS_Printf_Thread_Safety/README.md) | Explore concurrent printf calls and the limits of character-level scheduler protection. |
 | 005 | [Keil_Debug_Basics](005_Keil_Debug_Basics/README.md) | Practice Keil breakpoints, stepping, and inspection with periodic UART output. |
 | 006 | [FreeRTOS_Queue_LED_Control](006_FreeRTOS_Queue_LED_Control/README.md) | Decouple button input and LED control through queues and a relay thread. |
+| 007 | [FreeRTOS_Button_Short_Long_Press](007_FreeRTOS_Button_Short_Long_Press/README.md) | Handle short and long button presses through FreeRTOS threads and queues. |
 
 ## Usage
 
