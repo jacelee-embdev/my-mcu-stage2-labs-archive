@@ -76,6 +76,7 @@
 | 054 | [FreeRTOS_CmBacktrace_Template](054_FreeRTOS_CmBacktrace_Template/README_zh.md) | 集成 CmBacktrace、FreeRTOS、RTT 与日志，建立故障诊断模板。 |
 | 055 | [CmBacktrace_Divide_By_Zero_Test](055_CmBacktrace_Divide_By_Zero_Test/README_zh.md) | 触发除零异常，通过 CmBacktrace 输出现场并定位源码。 |
 | 056 | [SCT_Flash_SRAM_Execution_Test](056_SCT_Flash_SRAM_Execution_Test/README_zh.md) | 通过 SCT 将函数放入不同 Flash 区域及 SRAM，检查布局与耗时。 |
+| 057 | [Ozone_HardFault_Debug_Test](057_Ozone_HardFault_Debug_Test/README_zh.md) | 复现故障场景，使用 Ozone 或 Keil 观察异常现场。 |
 
 ## 使用说明
 

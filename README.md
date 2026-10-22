@@ -76,6 +76,7 @@ Select a project name to open its English documentation.
 | 054 | [FreeRTOS_CmBacktrace_Template](054_FreeRTOS_CmBacktrace_Template/README.md) | Integrate CmBacktrace, FreeRTOS, RTT, and logging in a fault-diagnosis template. |
 | 055 | [CmBacktrace_Divide_By_Zero_Test](055_CmBacktrace_Divide_By_Zero_Test/README.md) | Trigger a divide-by-zero fault and locate its source using CmBacktrace diagnostics. |
 | 056 | [SCT_Flash_SRAM_Execution_Test](056_SCT_Flash_SRAM_Execution_Test/README.md) | Place functions in separate Flash regions and SRAM using SCT, then inspect layout and timing. |
+| 057 | [Ozone_HardFault_Debug_Test](057_Ozone_HardFault_Debug_Test/README.md) | Reproduce fault scenarios and inspect exception state using Ozone or Keil. |
 
 ## Usage
 
