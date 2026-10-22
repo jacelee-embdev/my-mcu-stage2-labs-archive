@@ -1,0 +1,44 @@
+# Local assistant and editor configuration
+.agent/
+.agents/
+.vscode/
+
+# Reproducible compiler and linker outputs
+*.o
+*.d
+*.dep
+*.crf
+*.lnp
+*.lst
+*.map
+*.axf
+
+# Reproducible firmware outputs
+*.bin
+*.hex
+*.mxxx
+
+# Superseded scatter-file backups
+*_sct.[Bb][Aa][Kk]
+
+# Generated build and debugger logs
+*.build_log.htm
+UV4_cli_output.htm
+JLinkLog.txt
+JLinkDebugLog.txt
+
+# Generated call graphs are excluded by each lab's .gitignore using exact paths.
+
+# Required project inputs and explicitly retained user configuration
+!*.uvprojx
+!*.uvoptx
+!*.uvguix.*
+!*.uvgui.*
+!*.dbgconf
+!JLinkSettings.ini
+!*.scvd
+!*.ioc
+!.mxproject
+!*.sct
+!*.lib
+!.gitkeep
