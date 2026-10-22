@@ -44,6 +44,7 @@
 | 022 | [FreeRTOS_ADC_DMA_Double_Buffer](022_FreeRTOS_ADC_DMA_Double_Buffer/README_zh.md) | 在 FreeRTOS 中使用 ADC DMA 双缓冲采集与处理数据。 |
 | 023 | [FreeRTOS_ADC_DMA_Double_Buffer_Mutex](023_FreeRTOS_ADC_DMA_Double_Buffer_Mutex/README_zh.md) | 为 ADC DMA 双缓冲处理加入互斥锁，协调缓冲区访问。 |
 | 024 | [UART_Interrupt_Double_Buffer_Parser](024_UART_Interrupt_Double_Buffer_Parser/README_zh.md) | 通过 UART 中断和双缓冲接收定长数据并解析帧。 |
+| 025 | [UART_DMA_Fixed_Length_Double_Buffer_Parser](025_UART_DMA_Fixed_Length_Double_Buffer_Parser/README_zh.md) | 使用 UART DMA 定长双缓冲接收并解析数据帧。 |
 
 ## 使用说明
 
