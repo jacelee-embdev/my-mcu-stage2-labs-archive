@@ -20,7 +20,7 @@ Select a project name to open its English documentation.
 
 | No. | Project | Description |
 |---:|---|---|
-| — | — | Entries will be added here as projects are committed. |
+| 001 | [Button_LED_CubeMX_V1](001_Button_LED_CubeMX_V1/README.md) | Poll a button to toggle an LED in a CubeMX project, with periodic UART test output. |
 
 ## Usage
 
