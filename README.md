@@ -31,6 +31,7 @@ Select a project name to open its English documentation.
 | 009 | [FreeRTOS_Button_EXTI_V1](009_FreeRTOS_Button_EXTI_V1/README.md) | Classify short and long presses using EXTI edge events and a thread state machine. |
 | 010 | [FreeRTOS_Button_EXTI_V2](010_FreeRTOS_Button_EXTI_V2/README.md) | Control an LED with independent EXTI state machines for two buttons. |
 | 011 | [FreeRTOS_Button_Timer_LED_Control](011_FreeRTOS_Button_Timer_LED_Control/README.md) | Map button events to LED commands and drive toggling with TIM2 interrupts. |
+| 012 | [FreeRTOS_Interrupt_Response_Comparison](012_FreeRTOS_Interrupt_Response_Comparison/README.md) | Compare value and pointer queue transfers in an interrupt response path. |
 
 ## Usage
 
