@@ -77,6 +77,7 @@ Select a project name to open its English documentation.
 | 055 | [CmBacktrace_Divide_By_Zero_Test](055_CmBacktrace_Divide_By_Zero_Test/README.md) | Trigger a divide-by-zero fault and locate its source using CmBacktrace diagnostics. |
 | 056 | [SCT_Flash_SRAM_Execution_Test](056_SCT_Flash_SRAM_Execution_Test/README.md) | Place functions in separate Flash regions and SRAM using SCT, then inspect layout and timing. |
 | 057 | [Ozone_HardFault_Debug_Test](057_Ozone_HardFault_Debug_Test/README.md) | Reproduce fault scenarios and inspect exception state using Ozone or Keil. |
+| 058 | [FreeRTOS_SystemView_Template](058_FreeRTOS_SystemView_Template/README.md) | Integrate SystemView tracing to inspect FreeRTOS thread execution. |
 
 ## Usage
 
