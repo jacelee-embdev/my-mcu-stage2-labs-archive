@@ -78,15 +78,15 @@ Buffer2 raw:2048, voltage:1.650 V
 
 ## 作者思考
 
-**题目**:
+### 实现记录
 
-1. 使用 `malloc` 动态分配两个4字节的ADC数据缓冲区，分别命名为 `Buffer1` 和 `Buffer2`，并定义DMA缓冲区状态、任务句柄和队列句柄。
-2. 创建两个消息队列：DMA完成队列 `dma_done_queue` 和缓冲区就绪队列 `adc_ready_queue`，分别用于中断与采样线程、采样线程与处理线程之间的通信。
-3. 创建ADC采样线程 `adc_sample_task` 和ADC数据处理线程 `adc_process_task`，分别负责DMA双缓冲控制和ADC数据处理。
-4. 实现ADC DMA传输完成回调。当DMA传输完成时，在中断回调中使用 `xQueueSendFromISR()` 向采样线程发送DMA完成消息，并根据需要触发任务切换。
-5. 在线程A（ADC采样线程）中实现DMA双缓冲切换。首先使用 `Buffer1` 进行采集，传输完成后切换到 `Buffer2`，并通知线程B处理 `Buffer1`；下一次完成后再切回 `Buffer1`，并通知线程B处理 `Buffer2`。
-6. 在线程B（ADC处理线程）中读取已经完成采集的缓冲区数据，将12位ADC原始值按照3.3V参考电压换算为实际电压，并通过EasyLogger输出ADC原始值和计算后的电压值。
-7. 完善程序的错误处理，对内存分配、队列创建、线程创建、DMA启动和队列通信结果进行检查，同时在ADC错误回调中处理ADC溢出错误和DMA传输错误。
+1. `malloc` 分配两个 4 字节 ADC 缓冲区，分别由 `p_buffer1` 和 `p_buffer2` 指向；状态变量和句柄记录缓冲区、线程及队列。
+2. `dma_done_queue` 连接 DMA 中断与采样线程，`adc_ready_queue` 连接采样线程与处理线程。
+3. `adc_sample_task` 控制 DMA 双缓冲切换，`adc_process_task` 完成采样数据处理。
+4. DMA 完成回调通过 `xQueueSendFromISR()` 发送完成消息，并在需要时触发线程切换。
+5. 采样从第一个缓冲区开始，完成后交替使用另一个缓冲区，并将刚完成采集的缓冲区通知处理线程。
+6. 处理线程读取完成的缓冲区，按 3.3 V 参考电压换算 12 位 ADC 原始值，并通过 EasyLogger 输出结果。
+7. 程序检查内存、队列、线程、DMA 启动及通信结果，并在 ADC 错误回调中处理溢出和 DMA 错误。
 
 ## 许可证
 

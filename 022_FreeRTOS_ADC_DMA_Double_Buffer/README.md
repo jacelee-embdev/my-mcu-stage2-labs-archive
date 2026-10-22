@@ -78,15 +78,15 @@ Buffer2 raw:2048, voltage:1.650 V
 
 ## Author's Notes
 
-**Experiment**:
+### Implementation Notes
 
-1. Use `malloc` to allocate two 4-byte ADC data buffers named `Buffer1` and `Buffer2`, and define the DMA buffer state, task handles, and queue handles.
-2. Create two message queues: `dma_done_queue` for communication from the interrupt to the sampling task, and `adc_ready_queue` for communication from the sampling task to the processing task.
-3. Create the ADC sampling task `adc_sample_task` and ADC processing task `adc_process_task` for DMA double-buffer control and ADC data processing.
-4. Implement the ADC DMA conversion-complete callback. When a DMA transfer completes, use `xQueueSendFromISR()` to send a completion message to the sampling task and request a context switch when necessary.
-5. Implement DMA double-buffer switching in Task A, the ADC sampling task. Start with `Buffer1`; after completion, switch to `Buffer2` and notify Task B to process `Buffer1`. On the next completion, switch back to `Buffer1` and notify Task B to process `Buffer2`.
-6. In Task B, the ADC processing task, read the completed buffer, convert the 12-bit ADC value to a voltage using the 3.3 V reference, and output both the raw and calculated values through EasyLogger.
-7. Add error handling for memory allocation, queue creation, task creation, DMA startup, and queue communication, and handle ADC overrun and DMA transfer errors in the ADC error callback.
+1. `malloc` allocates two 4-byte ADC buffers referenced by `p_buffer1` and `p_buffer2`. State variables and handles track the buffers, threads, and queues.
+2. `dma_done_queue` connects the DMA interrupt to the sampling thread; `adc_ready_queue` connects the sampling and processing threads.
+3. `adc_sample_task` controls DMA double-buffer switching, while `adc_process_task` processes completed samples.
+4. The DMA completion callback sends a message through `xQueueSendFromISR()` and requests a context switch when needed.
+5. Sampling starts with the first buffer, alternates between the two buffers after completion, and notifies the processing thread of the completed buffer.
+6. The processing thread reads the completed buffer, converts the 12-bit ADC values using a 3.3 V reference, and reports results through EasyLogger.
+7. The program checks memory allocation, queue and thread creation, DMA startup, and communication results. The ADC error callback handles overrun and DMA errors.
 
 ## License
 
