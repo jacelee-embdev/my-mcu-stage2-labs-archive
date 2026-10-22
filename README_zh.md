@@ -23,6 +23,7 @@
 | 001 | [Button_LED_CubeMX_V1](001_Button_LED_CubeMX_V1/README_zh.md) | 在 CubeMX 工程中轮询按键并翻转 LED，串口周期输出测试信息。 |
 | 002 | [Button_LED_Template_V2](002_Button_LED_Template_V2/README_zh.md) | 基于自建 HAL 模板封装按键和 LED 驱动，通过主循环轮询控制 LED 翻转。 |
 | 003 | [FreeRTOS_UART_Printf](003_FreeRTOS_UART_Printf/README_zh.md) | FreeRTOS 默认线程轮询按键、翻转 LED，并通过 UART 输出测试信息。 |
+| 004 | [FreeRTOS_Printf_Thread_Safety](004_FreeRTOS_Printf_Thread_Safety/README_zh.md) | 通过多个线程并发打印，观察字符级调度保护与整行输出的差异。 |
 
 ## 使用说明
 
