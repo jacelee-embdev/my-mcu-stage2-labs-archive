@@ -24,6 +24,7 @@ Select a project name to open its English documentation.
 | 002 | [Button_LED_Template_V2](002_Button_LED_Template_V2/README.md) | Poll a button to toggle an LED using a custom HAL template with separate BSP and system drivers. |
 | 003 | [FreeRTOS_UART_Printf](003_FreeRTOS_UART_Printf/README.md) | Poll a button, toggle an LED, and print UART messages from a FreeRTOS thread. |
 | 004 | [FreeRTOS_Printf_Thread_Safety](004_FreeRTOS_Printf_Thread_Safety/README.md) | Explore concurrent printf calls and the limits of character-level scheduler protection. |
+| 005 | [Keil_Debug_Basics](005_Keil_Debug_Basics/README.md) | Practice Keil breakpoints, stepping, and inspection with periodic UART output. |
 
 ## Usage
 
