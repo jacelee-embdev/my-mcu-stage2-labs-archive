@@ -41,6 +41,7 @@ Select a project name to open its English documentation.
 | 019 | [UART_DMA_RX_To_SRAM](019_UART_DMA_RX_To_SRAM/README.md) | Receive UART data into SRAM through DMA and restart reception from its callback. |
 | 020 | [UART_DMA_FIFO_Burst](020_UART_DMA_FIFO_Burst/README.md) | Explore FIFO, burst, and buffer behavior in UART DMA reception. |
 | 021 | [PWM_DMA_WT588F02B_Control](021_PWM_DMA_WT588F02B_Control/README.md) | Generate WT588F02B voice-module control waveforms using PWM and DMA. |
+| 022 | [FreeRTOS_ADC_DMA_Double_Buffer](022_FreeRTOS_ADC_DMA_Double_Buffer/README.md) | Acquire and process ADC data with DMA double buffering under FreeRTOS. |
 
 ## Usage
 

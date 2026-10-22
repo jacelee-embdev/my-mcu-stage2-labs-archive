@@ -41,6 +41,7 @@
 | 019 | [UART_DMA_RX_To_SRAM](019_UART_DMA_RX_To_SRAM/README_zh.md) | 将 UART 数据通过 DMA 接收到 SRAM，并在回调中重新启动接收。 |
 | 020 | [UART_DMA_FIFO_Burst](020_UART_DMA_FIFO_Burst/README_zh.md) | 观察 UART DMA 的 FIFO、Burst 和缓冲区传输行为。 |
 | 021 | [PWM_DMA_WT588F02B_Control](021_PWM_DMA_WT588F02B_Control/README_zh.md) | 使用 PWM 与 DMA 生成 WT588F02B 语音模块的控制波形。 |
+| 022 | [FreeRTOS_ADC_DMA_Double_Buffer](022_FreeRTOS_ADC_DMA_Double_Buffer/README_zh.md) | 在 FreeRTOS 中使用 ADC DMA 双缓冲采集与处理数据。 |
 
 ## 使用说明
 
