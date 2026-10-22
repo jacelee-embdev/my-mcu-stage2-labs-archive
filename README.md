@@ -74,6 +74,7 @@ Select a project name to open its English documentation.
 | 052 | [Encrypted_OTA_Integrated_Project](052_Encrypted_OTA_Integrated_Project/README.md) | Integrate encrypted firmware updates with backup and recovery. |
 | 053 | [Function_Call_Stack_HardFault_Test](053_Function_Call_Stack_HardFault_Test/README.md) | Inspect function call stacks and HardFault state in two standalone experiments. |
 | 054 | [FreeRTOS_CmBacktrace_Template](054_FreeRTOS_CmBacktrace_Template/README.md) | Integrate CmBacktrace, FreeRTOS, RTT, and logging in a fault-diagnosis template. |
+| 055 | [CmBacktrace_Divide_By_Zero_Test](055_CmBacktrace_Divide_By_Zero_Test/README.md) | Trigger a divide-by-zero fault and locate its source using CmBacktrace diagnostics. |
 
 ## Usage
 

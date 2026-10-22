@@ -74,6 +74,7 @@
 | 052 | [Encrypted_OTA_Integrated_Project](052_Encrypted_OTA_Integrated_Project/README_zh.md) | 集成并整理完整的加密固件升级、备份和恢复工程。 |
 | 053 | [Function_Call_Stack_HardFault_Test](053_Function_Call_Stack_HardFault_Test/README_zh.md) | 通过两个独立实验观察函数调用栈和 HardFault 现场。 |
 | 054 | [FreeRTOS_CmBacktrace_Template](054_FreeRTOS_CmBacktrace_Template/README_zh.md) | 集成 CmBacktrace、FreeRTOS、RTT 与日志，建立故障诊断模板。 |
+| 055 | [CmBacktrace_Divide_By_Zero_Test](055_CmBacktrace_Divide_By_Zero_Test/README_zh.md) | 触发除零异常，通过 CmBacktrace 输出现场并定位源码。 |
 
 ## 使用说明
 
