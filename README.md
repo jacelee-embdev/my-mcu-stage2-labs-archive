@@ -35,6 +35,7 @@ Select a project name to open its English documentation.
 | 013 | [SEGGER_RTT_Demo](013_SEGGER_RTT_Demo/README.md) | Integrate SEGGER RTT for direct RTT and standard printf debug output. |
 | 014 | [EasyLogger_UART_Port](014_EasyLogger_UART_Port/README.md) | Port EasyLogger for leveled, colored UART logging. |
 | 015 | [RTT_EasyLogger_Template_V1](015_RTT_EasyLogger_Template_V1/README.md) | Combine RTT and EasyLogger in a bare-metal logging template. |
+| 016 | [FreeRTOS_RTT_EasyLogger_Template_V2](016_FreeRTOS_RTT_EasyLogger_Template_V2/README.md) | Integrate FreeRTOS, RTT, and EasyLogger with a common thread initialization entry. |
 
 ## Usage
 
