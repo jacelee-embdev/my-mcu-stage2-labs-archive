@@ -79,6 +79,7 @@
 | 057 | [Ozone_HardFault_Debug_Test](057_Ozone_HardFault_Debug_Test/README_zh.md) | 复现故障场景，使用 Ozone 或 Keil 观察异常现场。 |
 | 058 | [FreeRTOS_SystemView_Template](058_FreeRTOS_SystemView_Template/README_zh.md) | 集成 SystemView 跟踪配置，观察 FreeRTOS 线程运行。 |
 | 059 | [Manual_RW_ZI_Relocation](059_Manual_RW_ZI_Relocation/README_zh.md) | 绕过 __main，手动复制 RW、清零 ZI，学习启动与重定位。 |
+| 060 | [LED_Bridge_Pattern](060_LED_Bridge_Pattern/README_zh.md) | 通过桥接模式分离 LED 行为与硬件、FreeRTOS 接口，以消息队列执行异步闪烁。 |
 
 ## 使用说明
 

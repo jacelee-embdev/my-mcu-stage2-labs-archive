@@ -1,0 +1,25 @@
+; STM32F411CEU6: 512 KiB Flash, 128 KiB RAM.
+; Reserve the final 4 KiB of Flash and RAM for BSP object initialization.
+
+LR_IROM1 0x08000000 0x0007F000
+{
+    ER_IROM1 0x08000000 0x0007F000
+    {
+        *.o (RESET, +First)
+        *(InRoot$$Sections)
+        .ANY (+RO)
+        .ANY (+XO)
+    }
+    RW_IRAM1 0x20000000 0x0001F000
+    {
+        .ANY (+RW +ZI)
+    }
+}
+
+LR_BSP 0x0807F000 0x00001000
+{
+    RW_BSP 0x2001F000 0x00001000
+    {
+        system_adaption.o (bsp_target)
+    }
+}

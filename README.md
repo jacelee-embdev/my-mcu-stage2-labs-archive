@@ -79,6 +79,7 @@ Select a project name to open its English documentation.
 | 057 | [Ozone_HardFault_Debug_Test](057_Ozone_HardFault_Debug_Test/README.md) | Reproduce fault scenarios and inspect exception state using Ozone or Keil. |
 | 058 | [FreeRTOS_SystemView_Template](058_FreeRTOS_SystemView_Template/README.md) | Integrate SystemView tracing to inspect FreeRTOS thread execution. |
 | 059 | [Manual_RW_ZI_Relocation](059_Manual_RW_ZI_Relocation/README.md) | Bypass __main and manually initialize RW and ZI to study startup and relocation. |
+| 060 | [LED_Bridge_Pattern](060_LED_Bridge_Pattern/README.md) | Separate LED behavior from hardware and FreeRTOS interfaces with the bridge pattern, using queued asynchronous blink requests. |
 
 ## Usage
 
