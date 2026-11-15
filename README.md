@@ -80,6 +80,7 @@ Select a project name to open its English documentation.
 | 058 | [FreeRTOS_SystemView_Template](058_FreeRTOS_SystemView_Template/README.md) | Integrate SystemView tracing to inspect FreeRTOS thread execution. |
 | 059 | [Manual_RW_ZI_Relocation](059_Manual_RW_ZI_Relocation/README.md) | Bypass __main and manually initialize RW and ZI to study startup and relocation. |
 | 060 | [LED_Bridge_Pattern](060_LED_Bridge_Pattern/README.md) | Separate LED behavior from hardware and FreeRTOS interfaces with the bridge pattern, using queued asynchronous blink requests. |
+| 061 | [Software_IIC_AHT21_ACK_Test](061_Software_IIC_AHT21_ACK_Test/README.md) | Probe the AHT21 address using GPIO software IIC and DWT delays, with results logged through RTT. |
 
 ## Usage
 

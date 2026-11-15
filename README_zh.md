@@ -80,6 +80,7 @@
 | 058 | [FreeRTOS_SystemView_Template](058_FreeRTOS_SystemView_Template/README_zh.md) | 集成 SystemView 跟踪配置，观察 FreeRTOS 线程运行。 |
 | 059 | [Manual_RW_ZI_Relocation](059_Manual_RW_ZI_Relocation/README_zh.md) | 绕过 __main，手动复制 RW、清零 ZI，学习启动与重定位。 |
 | 060 | [LED_Bridge_Pattern](060_LED_Bridge_Pattern/README_zh.md) | 通过桥接模式分离 LED 行为与硬件、FreeRTOS 接口，以消息队列执行异步闪烁。 |
+| 061 | [Software_IIC_AHT21_ACK_Test](061_Software_IIC_AHT21_ACK_Test/README_zh.md) | 通过 GPIO 模拟 IIC 与 DWT 延时检测 AHT21 地址应答，并由 RTT 输出结果。 |
 
 ## 使用说明
 
