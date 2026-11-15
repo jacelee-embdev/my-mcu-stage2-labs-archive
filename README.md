@@ -83,6 +83,7 @@ Select a project name to open its English documentation.
 | 061 | [Software_IIC_AHT21_ACK_Test](061_Software_IIC_AHT21_ACK_Test/README.md) | Probe the AHT21 address using GPIO software IIC and DWT delays, with results logged through RTT. |
 | 062 | [AHT21_Driver_Interface](062_AHT21_Driver_Interface/README.md) | Declare AHT21 Driver and platform callback interfaces while retaining the software IIC address acknowledgment test. |
 | 063 | [AHT21_Driver_FreeRTOS_Test](063_AHT21_Driver_FreeRTOS_Test/README.md) | Implement AHT21 measurement, CRC validation, and temperature and humidity conversion with periodic FreeRTOS sampling and logging. |
+| 064 | [AHT21_Handler_Interface](064_AHT21_Handler_Interface/README.md) | Define Handler request events, queue and callback interfaces while retaining the direct Driver sampling baseline. |
 
 ## Usage
 

@@ -83,6 +83,7 @@
 | 061 | [Software_IIC_AHT21_ACK_Test](061_Software_IIC_AHT21_ACK_Test/README_zh.md) | 通过 GPIO 模拟 IIC 与 DWT 延时检测 AHT21 地址应答，并由 RTT 输出结果。 |
 | 062 | [AHT21_Driver_Interface](062_AHT21_Driver_Interface/README_zh.md) | 声明 AHT21 Driver 与平台回调接口，保留软件 IIC 地址应答测试。 |
 | 063 | [AHT21_Driver_FreeRTOS_Test](063_AHT21_Driver_FreeRTOS_Test/README_zh.md) | 实现 AHT21 测量、CRC 校验与温湿度换算，在 FreeRTOS 线程中周期读取并输出日志。 |
+| 064 | [AHT21_Handler_Interface](064_AHT21_Handler_Interface/README_zh.md) | 定义 Handler 请求事件、队列与回调接口，保留直接调用 Driver 的采样基线。 |
 
 ## 使用说明
 
