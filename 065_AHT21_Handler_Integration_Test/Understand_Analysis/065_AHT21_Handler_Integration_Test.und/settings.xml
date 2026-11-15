@@ -1,0 +1,366 @@
+<project>
+  <files
+    default_encoding="System"
+    readonly="false"
+    maxfilesize="10485760"
+    enforce_portability="false">
+    <dir
+      name=".">
+      <dir
+        name="..">
+        <dir
+          name="Core">
+          <dir
+            name="Src">
+            <file
+              name="freertos.c"/>
+            <file
+              name="gpio.c"/>
+            <file
+              name="main.c"/>
+            <file
+              name="usart.c"/>
+          </dir>
+        </dir>
+        <dir
+          name="Middlewares_User">
+          <dir
+            name="EasyLogger">
+            <dir
+              name="debug">
+              <file
+                name="debug.c"/>
+            </dir>
+          </dir>
+        </dir>
+        <dir
+          name="Z01_SYS">
+          <file
+            name="delay.c"/>
+        </dir>
+        <dir
+          name="Z02_BSP">
+          <dir
+            name="AHT21">
+            <dir
+              name="sw_bsp_aht21_driver">
+              <dir
+                name="Inc">
+                <file
+                  name="sw_bsp_aht21_driver.h"/>
+                <file
+                  name="sw_bsp_aht21_register.h"/>
+              </dir>
+              <dir
+                name="Src">
+                <file
+                  name="sw_bsp_aht21_driver.c"/>
+              </dir>
+            </dir>
+            <dir
+              name="sw_bsp_aht21_handler">
+              <dir
+                name="Inc">
+                <file
+                  name="sw_bsp_aht21_handler.h"/>
+              </dir>
+              <dir
+                name="Src">
+                <file
+                  name="sw_bsp_aht21_handler.c"/>
+              </dir>
+            </dir>
+          </dir>
+          <dir
+            name="IIC">
+            <file
+              name="iic.c"/>
+            <file
+              name="iic.h"/>
+          </dir>
+          <dir
+            name="LED">
+            <file
+              name="led.c"/>
+          </dir>
+        </dir>
+        <dir
+          name="Z03_Business">
+          <dir
+            name="AHT21_Task">
+            <file
+              name="aht21_task.c"/>
+            <file
+              name="aht21_task.h"/>
+          </dir>
+          <dir
+            name="Init">
+            <file
+              name="os_init.c"/>
+            <file
+              name="os_init.h"/>
+          </dir>
+          <dir
+            name="Status_Task">
+            <file
+              name="status_task.c"/>
+          </dir>
+          <dir
+            name="System_Adaption">
+            <file
+              name="system_adaption.c"/>
+            <file
+              name="system_adaption.h"/>
+          </dir>
+        </dir>
+      </dir>
+    </dir>
+  </files>
+  <languages>
+    <language
+      name="C++"/>
+  </languages>
+  <file_types/>
+  <annotations_options/>
+  <comparison_options
+    comparison_db=""
+    git_repo="./.."
+    git_commit=""
+    diff_flags="1"/>
+  <cpp_options
+    add_found_include_files="false"
+    add_found_system_include_files="false"
+    allow_nested_comments="false"
+    analyze_headers_in_isolation="false"
+    bracket_depth="256"
+    cache_ast_files="false"
+    c_std="c99"
+    compiler="Keil arm"
+    compiler_include_path=""
+    create_implicit_special_member_functions="false"
+    create_references_in_assembly="true"
+    create_references_in_inactive_code="false"
+    create_references_to_local_objects="true"
+    create_references_to_macros_during_macro_expansion="false"
+    create_references_to_parameters="true"
+    cxx_std=""
+    cuda_arch="sm_20"
+    delayed_template_parsing="true"
+    triple=""
+    ignore_dir_in_include_files="false"
+    ignore_preprocessor_conditionals="false"
+    ios_min_version="5.0"
+    linkage_append_text=""
+    linkage_prepend_text=""
+    macos_min_version="10.7"
+    macro_expansion_trunc="0"
+    merge_structs="true"
+    msc_version=""
+    prompt_for_missing_include_files="false"
+    objectDataMembers="false"
+    objectFunctionMembers="false"
+    save_comments_associated_with_entities="true"
+    save_duplicate_references="false"
+    save_macro_expansion_text="false"
+    simplify_macro_expansion="false"
+    search_for_include_files_among_project_files="true"
+    start_worker_processes_serially="false"
+    sysroot=""
+    treat_system_includes_as_user_includes="true"
+    compare_includes_by_content="false"
+    use_clang="true"
+    use_include_cache="true"
+    objc_memory_mode="MrrMode"
+    worker_process_timeout="2">
+    <includes>
+      <include
+        directory="./../Drivers/CMSIS/Include"/>
+      <include
+        directory="./../Drivers/CMSIS/Device/ST/STM32F4xx/Include"/>
+      <include
+        directory="./../Drivers/STM32F4xx_HAL_Driver/Inc"/>
+      <include
+        directory="./../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"/>
+      <include
+        directory="./../Core/Inc"/>
+      <include
+        directory="./../Middlewares/Third_Party/FreeRTOS/Source/include"/>
+      <include
+        directory="./../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F"/>
+      <include
+        directory="./../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2"/>
+      <include
+        directory="./../Middlewares_User/SEGGER_RTT"/>
+      <include
+        directory="./../Middlewares_User/EasyLogger/inc"/>
+      <include
+        directory="./../Middlewares_User/EasyLogger/debug"/>
+      <include
+        directory="./../Z01_SYS"/>
+      <include
+        directory="./../Z02_BSP/LED"/>
+      <include
+        directory="./../Z02_BSP/IIC"/>
+      <include
+        directory="./../Z02_BSP/AHT21/sw_bsp_aht21_driver/Inc"/>
+      <include
+        directory="./../Z02_BSP/AHT21/sw_bsp_aht21_handler/Inc"/>
+      <include
+        directory="./../Z03_Business/Status_Task"/>
+      <include
+        directory="./../Z03_Business/Init"/>
+      <include
+        directory="./../Z03_Business/AHT21_Task"/>
+      <include
+        directory="./../Z03_Business/System_Adaption"/>
+      <include
+        directory="D:/Keil_v5/ARM/ARMCC/include"/>
+    </includes>
+    <macros>
+      <macro
+        name="STM32F411xE"
+        definition="1"/>
+      <macro
+        name="USE_HAL_DRIVER"
+        definition="1"/>
+      <macro
+        name="__ARMCC_VERSION"
+        definition="5060960"/>
+      <macro
+        name="__CC_ARM"
+        definition="1"/>
+    </macros>
+  </cpp_options>
+  <dependency_options
+    exclude_standard="true"
+    use_includes="true"
+    mode="link"/>
+  <imports/>
+  <metrics
+    declared_in_file_display_mode="no_path"
+    file_display_mode="no_path"
+    show_declared_in_file="false"
+    show_function_parameter_types="false"
+    write_column_titles="true"
+    add_uniquename_column="false"
+    metric_filter="28532"/>
+  <reports
+    date_stamping="false"
+    display_parameters="false"
+    index_by_method="false"
+    group_by_directory="false"
+    filename_mode="short"
+    generation_status="needs_generation"
+    generation_time="0"
+    html_clear_directory="false"
+    html_generation="true"
+    html_mode="alpha"
+    headertext_mode="false"
+    headerusertext_mode="false"
+    headertext_text="Report generated by Understand"
+    headerusertext_text=""
+    html_size="250"
+    text_clear_directory="false"
+    text_generation="true"
+    text_mode="single">
+    <report
+      name="Data Dictionary"
+      enabled="true"/>
+    <report
+      name="File Contents"
+      enabled="true"/>
+    <report
+      name="Program Unit Cross Reference"
+      enabled="true"/>
+    <report
+      name="Object Cross Reference"
+      enabled="true"/>
+    <report
+      name="Type Cross Reference"
+      enabled="true"/>
+    <report
+      name="Macro Cross Reference"
+      enabled="true"/>
+    <report
+      name="Include File Cross Reference"
+      enabled="true"/>
+    <report
+      name="Declaration Tree"
+      enabled="true"/>
+    <report
+      name="Extend Tree"
+      enabled="false"/>
+    <report
+      name="Invocation Tree"
+      enabled="false"/>
+    <report
+      name="Simple Invocation Tree"
+      enabled="true"/>
+    <report
+      name="Imports"
+      enabled="true"/>
+    <report
+      name="With Tree"
+      enabled="true"/>
+    <report
+      name="Simple With Tree"
+      enabled="true"/>
+    <report
+      name="Generic Instantiation"
+      enabled="true"/>
+    <report
+      name="Exception Cross Reference"
+      enabled="true"/>
+    <report
+      name="Renames"
+      enabled="true"/>
+    <report
+      name="Program Unit Complexity"
+      enabled="true"/>
+    <report
+      name="Project Metrics"
+      enabled="true"/>
+    <report
+      name="Program Unit Metrics"
+      enabled="true"/>
+    <report
+      name="File Metrics"
+      enabled="true"/>
+    <report
+      name="File Average Metrics"
+      enabled="true"/>
+    <report
+      name="Fortran Extension Usage"
+      enabled="true"/>
+    <report
+      name="Class Metrics"
+      enabled="true"/>
+    <report
+      name="Class OO Metrics"
+      enabled="true"/>
+    <report
+      name="Implicitly Declared Objects"
+      enabled="true"/>
+    <report
+      name="Uninitialized Items"
+      enabled="true"/>
+    <report
+      name="Unused Objects and Functions"
+      enabled="true"/>
+    <report
+      name="Unused Objects"
+      enabled="true"/>
+    <report
+      name="Unused Types"
+      enabled="true"/>
+    <report
+      name="Unused Program Units"
+      enabled="true"/>
+    <report
+      name="Uses Not Needed"
+      enabled="true"/>
+    <report
+      name="Withs Not Needed"
+      enabled="true"/>
+  </reports>
+</project>

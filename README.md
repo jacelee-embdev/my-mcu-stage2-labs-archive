@@ -84,6 +84,7 @@ Select a project name to open its English documentation.
 | 062 | [AHT21_Driver_Interface](062_AHT21_Driver_Interface/README.md) | Declare AHT21 Driver and platform callback interfaces while retaining the software IIC address acknowledgment test. |
 | 063 | [AHT21_Driver_FreeRTOS_Test](063_AHT21_Driver_FreeRTOS_Test/README.md) | Implement AHT21 measurement, CRC validation, and temperature and humidity conversion with periodic FreeRTOS sampling and logging. |
 | 064 | [AHT21_Handler_Interface](064_AHT21_Handler_Interface/README.md) | Define Handler request events, queue and callback interfaces while retaining the direct Driver sampling baseline. |
+| 065 | [AHT21_Handler_Integration_Test](065_AHT21_Handler_Integration_Test/README.md) | Integrate AHT21 Handler queued requests, cached readings, and callbacks, with system flow and dependency diagrams. |
 
 ## Usage
 

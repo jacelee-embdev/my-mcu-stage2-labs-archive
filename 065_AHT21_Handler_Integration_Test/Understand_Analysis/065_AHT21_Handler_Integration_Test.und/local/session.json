@@ -1,0 +1,2069 @@
+{
+    "Session": "default",
+    "Sessions": {
+        "AHT21 核心阅读": {
+            "SessionData": {
+                "2_2560x1440_2560x1440": {
+                    "AnalysisLog": {
+                        "Dock Area": 8,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    },
+                    "DockWidgets": {
+                        "FloatingWidgetOrder": [
+                        ],
+                        "OpenWindows": {
+                            "00ProjectOverviewWidget": {
+                                "height": 608,
+                                "width": 250
+                            },
+                            "01SuggestionsBrowser": {
+                                "height": 995,
+                                "width": 250
+                            },
+                            "02EntityFilter": {
+                                "height": 631,
+                                "width": 250
+                            },
+                            "03Locator": {
+                                "height": 244,
+                                "width": 2270
+                            },
+                            "04ProjectMetricsWidget": {
+                                "height": 221,
+                                "width": 2270
+                            },
+                            "05InfoBrowserWidget_0": {
+                                "height": 628,
+                                "width": 270
+                            }
+                        },
+                        "TabGroupFrontWidgets": [
+                            "ProjectOverviewWidget",
+                            "ProjectMetricsWidget"
+                        ]
+                    },
+                    "EntityFilter": {
+                        "Dock Area": 1,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                            "ProjectOverviewWidget"
+                        ]
+                    },
+                    "InfoBrowserWidget_0": {
+                        "Dock Area": 1,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    },
+                    "IssueBrowser": {
+                        "Dock Area": 8,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    },
+                    "Locator": {
+                        "Dock Area": 8,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                            "ProjectMetricsWidget"
+                        ]
+                    },
+                    "ProjectMetricsWidget": {
+                        "Dock Area": 8,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                            "Locator"
+                        ]
+                    },
+                    "ProjectOverviewWidget": {
+                        "Dock Area": 1,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                            "EntityFilter"
+                        ]
+                    },
+                    "SuggestionsBrowser": {
+                        "Dock Area": 2,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    }
+                },
+                "EditorWindowSetting": {
+                    "5a1925db9a11dabfa4451188a57564ae": {
+                        "anchor": {
+                            "line": 145,
+                            "offset": 60
+                        },
+                        "caret": {
+                            "line": 145,
+                            "offset": 60
+                        },
+                        "container": 1,
+                        "height": 995,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 0,
+                        "width": 2016,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "5adc247ab9cc453cc4fb9e69eefda101": {
+                        "anchor": {
+                            "line": 0,
+                            "offset": 0
+                        },
+                        "caret": {
+                            "line": 0,
+                            "offset": 0
+                        },
+                        "container": 1,
+                        "height": 1011,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 0,
+                        "width": 2032,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "5e1ef808a601dc0a0111cd128bc74f44": {
+                        "anchor": {
+                            "line": 20,
+                            "offset": 2
+                        },
+                        "caret": {
+                            "line": 20,
+                            "offset": 2
+                        },
+                        "container": 1,
+                        "height": 1011,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 43,
+                        "width": 2032,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "7fca8e3ddac73bafcdfd8f99d83d35ab": {
+                        "anchor": {
+                            "line": 12,
+                            "offset": 46
+                        },
+                        "caret": {
+                            "line": 12,
+                            "offset": 46
+                        },
+                        "container": 1,
+                        "height": 1011,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 0,
+                        "width": 2032,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "f372324a703bfb7492a77152272df70d": {
+                        "anchor": {
+                            "line": 346,
+                            "offset": 5
+                        },
+                        "caret": {
+                            "line": 346,
+                            "offset": 29
+                        },
+                        "container": 1,
+                        "height": 1011,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 306,
+                        "width": 2032,
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                "EntityFilter": {
+                    "LastEntityFilterUsed": "Functions"
+                },
+                "GraphCustomizerTemporarySets": {
+                    "55": {
+                        "01 AHT21 System Lifecycle": {
+                            "": {
+                                "55": {
+                                    "CreatedOn": "2026-11-15",
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "",
+                                    "LastModifiedOn": "2026-11-15",
+                                    "graphdisplay_center_x": -184.53996006074613,
+                                    "graphdisplay_center_y": 1330.0080821591614,
+                                    "graphdisplay_overview_x": 10,
+                                    "graphdisplay_overview_y": 10,
+                                    "graphdisplay_zoom": 10,
+                                    "graphwindow_fitheight": true,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "2_2560x1440_2560x1440": {
+                                            "container": 1,
+                                            "height": 995,
+                                            "isMaximized": false,
+                                            "width": 2016,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": ""
+                            }
+                        }
+                    },
+                    "56": {
+                        "Calls": {
+                            "Type=Entity ID=@lAHT21_TaskEntry@kAHT21_TaskEntry@f.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": {
+                                "56": {
+                                    "CreatedOn": "2026-11-15",
+                                    "EntNodeOpts": {
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lAHT21_CalculateCrc8@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_CheckPowerOnStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Deinit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_HandlerInit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerInstantiate@kAHT21_HandlerInstantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerMount@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerRequestReadTemperatureHumidity@kAHT21_HandlerRequestReadTemperatureHumidity@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerThreadEntry@kAHT21_HandlerThreadEntry@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_Init@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Instantiate@kAHT21_Instantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Sleep@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_TaskEntry@kAHT21_TaskEntry@f.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_TemperatureHumidityCallback@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_Wakeup@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lIIC_Init@kIIC_Init@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadRegBytes@kIIC_ReadRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadSda@kIIC_ReadSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendAck@kIIC_SendAck@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendByte@kIIC_SendByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendNack@kIIC_SendNack@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaInputMode@kIIC_SetSdaInputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaOutputMode@kIIC_SetSdaOutputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Start@kIIC_Start@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Stop@kIIC_Stop@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegByte@kIIC_WriteRegByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegBytes@kIIC_WriteRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteScl@kIIC_WriteScl@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteSda@kIIC_WriteSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lOS_Init@kOS_Init@f.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@lSystem_AHT21ResourcesInit@kSystem_AHT21ResourcesInit@f.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueCreate@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueReceive@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueSend@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552
+                                    },
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Simplified",
+                                    "HideUnhighlightedEdges": 0,
+                                    "HideUnhighlightedNodes": 0,
+                                    "LastModifiedOn": "2026-11-15",
+                                    "Theme": "STI_CALLS",
+                                    "graphdisplay_center_x": 1152.1014492753625,
+                                    "graphdisplay_center_y": 947.6376811594203,
+                                    "graphdisplay_overview_x": 0,
+                                    "graphdisplay_overview_y": 0,
+                                    "graphdisplay_zoom": 40,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": true,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "2_2560x1440_2560x1440": {
+                                            "container": 1,
+                                            "height": 995,
+                                            "isMaximized": false,
+                                            "width": 2016,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "AHT21_TaskEntry"
+                            }
+                        }
+                    },
+                    "57": {
+                        "Calls": {
+                            "Type=Entity ID=@lSystem_AHT21ResourcesInit@kSystem_AHT21ResourcesInit@f.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": {
+                                "57": {
+                                    "CreatedOn": "2026-11-15",
+                                    "EntNodeOpts": {
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lAHT21_CalculateCrc8@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_CheckPowerOnStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Deinit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_HandlerInit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerInstantiate@kAHT21_HandlerInstantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerMount@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerRequestReadTemperatureHumidity@kAHT21_HandlerRequestReadTemperatureHumidity@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerThreadEntry@kAHT21_HandlerThreadEntry@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_Init@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Instantiate@kAHT21_Instantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Sleep@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_TaskEntry@kAHT21_TaskEntry@f.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_TemperatureHumidityCallback@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_Wakeup@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lIIC_Init@kIIC_Init@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadRegBytes@kIIC_ReadRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadSda@kIIC_ReadSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendAck@kIIC_SendAck@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendByte@kIIC_SendByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendNack@kIIC_SendNack@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaInputMode@kIIC_SetSdaInputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaOutputMode@kIIC_SetSdaOutputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Start@kIIC_Start@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Stop@kIIC_Stop@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegByte@kIIC_WriteRegByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegBytes@kIIC_WriteRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteScl@kIIC_WriteScl@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteSda@kIIC_WriteSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lOS_Init@kOS_Init@f.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@lSystem_AHT21ResourcesInit@kSystem_AHT21ResourcesInit@f.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueCreate@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueReceive@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueSend@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552
+                                    },
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Simplified",
+                                    "HideUnhighlightedEdges": 0,
+                                    "HideUnhighlightedNodes": 0,
+                                    "LastModifiedOn": "2026-11-15",
+                                    "Theme": "STI_CALLS",
+                                    "graphdisplay_center_x": 1232.3261588598668,
+                                    "graphdisplay_center_y": 675.8734617442483,
+                                    "graphdisplay_overview_x": 0,
+                                    "graphdisplay_overview_y": 0,
+                                    "graphdisplay_zoom": 80,
+                                    "graphwindow_fitheight": true,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "2_2560x1440_2560x1440": {
+                                            "container": 1,
+                                            "height": 995,
+                                            "isMaximized": false,
+                                            "width": 2016,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "System_AHT21ResourcesInit"
+                            }
+                        }
+                    },
+                    "58": {
+                        "Calls": {
+                            "Type=Entity ID=@lAHT21_HandlerThreadEntry@kAHT21_HandlerThreadEntry@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": {
+                                "58": {
+                                    "CreatedOn": "2026-11-15",
+                                    "EntNodeOpts": {
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lAHT21_CalculateCrc8@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_CheckPowerOnStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Deinit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_HandlerInit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerInstantiate@kAHT21_HandlerInstantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerMount@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerRequestReadTemperatureHumidity@kAHT21_HandlerRequestReadTemperatureHumidity@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerThreadEntry@kAHT21_HandlerThreadEntry@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_Init@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Instantiate@kAHT21_Instantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Sleep@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_TaskEntry@kAHT21_TaskEntry@f.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_TemperatureHumidityCallback@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_Wakeup@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lIIC_Init@kIIC_Init@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadRegBytes@kIIC_ReadRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadSda@kIIC_ReadSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendAck@kIIC_SendAck@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendByte@kIIC_SendByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendNack@kIIC_SendNack@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaInputMode@kIIC_SetSdaInputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaOutputMode@kIIC_SetSdaOutputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Start@kIIC_Start@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Stop@kIIC_Stop@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegByte@kIIC_WriteRegByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegBytes@kIIC_WriteRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteScl@kIIC_WriteScl@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteSda@kIIC_WriteSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lOS_Init@kOS_Init@f.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@lSystem_AHT21ResourcesInit@kSystem_AHT21ResourcesInit@f.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueCreate@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueReceive@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueSend@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@ltemp_humi_event_t::pfcallback@kc7temp_humi_event_t::pfcallback1@o1@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Inc#SLASH#sw_bsp_aht21_handler.h": 263552,
+                                        "@ltemp_humi_handler_os_interface_t::os_queue_receive@kc7temp_humi_handler_os_interface_t::os_queue_receive1@o1@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Inc#SLASH#sw_bsp_aht21_handler.h": 263552
+                                    },
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Simplified",
+                                    "HideUnhighlightedEdges": 0,
+                                    "HideUnhighlightedNodes": 0,
+                                    "LastModifiedOn": "2026-11-15",
+                                    "Theme": "STI_CALLS",
+                                    "graphdisplay_center_x": 440,
+                                    "graphdisplay_center_y": 124.54545454545455,
+                                    "graphdisplay_overview_x": 0,
+                                    "graphdisplay_overview_y": 0,
+                                    "graphdisplay_zoom": 110,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "2_2560x1440_2560x1440": {
+                                            "container": 1,
+                                            "height": 995,
+                                            "isMaximized": false,
+                                            "width": 2016,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "AHT21_HandlerThreadEntry"
+                            }
+                        }
+                    },
+                    "59": {
+                        "Calls": {
+                            "Type=Entity ID=@lAHT21_ReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": {
+                                "59": {
+                                    "CreatedOn": "2026-11-15",
+                                    "EntNodeOpts": {
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lAHT21_CalculateCrc8@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_CheckPowerOnStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Deinit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_HandlerInit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerInstantiate@kAHT21_HandlerInstantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerMount@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerRequestReadTemperatureHumidity@kAHT21_HandlerRequestReadTemperatureHumidity@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerThreadEntry@kAHT21_HandlerThreadEntry@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_Init@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Instantiate@kAHT21_Instantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Sleep@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_TaskEntry@kAHT21_TaskEntry@f.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_TemperatureHumidityCallback@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_Wakeup@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lIIC_Init@kIIC_Init@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadRegBytes@kIIC_ReadRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadSda@kIIC_ReadSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendAck@kIIC_SendAck@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendByte@kIIC_SendByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendNack@kIIC_SendNack@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaInputMode@kIIC_SetSdaInputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaOutputMode@kIIC_SetSdaOutputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Start@kIIC_Start@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Stop@kIIC_Stop@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegByte@kIIC_WriteRegByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegBytes@kIIC_WriteRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteScl@kIIC_WriteScl@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteSda@kIIC_WriteSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lOS_Init@kOS_Init@f.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@lSystem_AHT21ResourcesInit@kSystem_AHT21ResourcesInit@f.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueCreate@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueReceive@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueSend@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552
+                                    },
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Simplified",
+                                    "HideUnhighlightedEdges": 0,
+                                    "HideUnhighlightedNodes": 0,
+                                    "LastModifiedOn": "2026-11-15",
+                                    "Theme": "STI_CALLS",
+                                    "graphdisplay_center_x": 394.375,
+                                    "graphdisplay_center_y": 490.625,
+                                    "graphdisplay_overview_x": 0,
+                                    "graphdisplay_overview_y": 0,
+                                    "graphdisplay_zoom": 160,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "2_2560x1440_2560x1440": {
+                                            "container": 1,
+                                            "height": 995,
+                                            "isMaximized": false,
+                                            "width": 2016,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "AHT21_ReadTemperatureHumidity"
+                            }
+                        }
+                    },
+                    "60": {
+                        "Calls": {
+                            "Type=Entity ID=@lOS_Init@kOS_Init@f.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": {
+                                "60": {
+                                    "CreatedOn": "2026-11-15",
+                                    "EntNodeOpts": {
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lAHT21_CalculateCrc8@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_CheckPowerOnStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Deinit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_HandlerInit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerInstantiate@kAHT21_HandlerInstantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerMount@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerRequestReadTemperatureHumidity@kAHT21_HandlerRequestReadTemperatureHumidity@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerThreadEntry@kAHT21_HandlerThreadEntry@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_Init@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Instantiate@kAHT21_Instantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Sleep@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_TaskEntry@kAHT21_TaskEntry@f.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_TemperatureHumidityCallback@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_Wakeup@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lIIC_Init@kIIC_Init@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadRegBytes@kIIC_ReadRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadSda@kIIC_ReadSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendAck@kIIC_SendAck@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendByte@kIIC_SendByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendNack@kIIC_SendNack@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaInputMode@kIIC_SetSdaInputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaOutputMode@kIIC_SetSdaOutputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Start@kIIC_Start@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Stop@kIIC_Stop@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegByte@kIIC_WriteRegByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegBytes@kIIC_WriteRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteScl@kIIC_WriteScl@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteSda@kIIC_WriteSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lOS_Init@kOS_Init@f.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@lSystem_AHT21ResourcesInit@kSystem_AHT21ResourcesInit@f.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueCreate@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueReceive@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueSend@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@laht21_iic_interface::pf_critical_exit@kc7aht21_iic_interface::pf_critical_exit@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Inc#SLASH#sw_bsp_aht21_driver.h": 263552
+                                    },
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Simplified",
+                                    "HideUnhighlightedEdges": 0,
+                                    "HideUnhighlightedNodes": 0,
+                                    "LastModifiedOn": "2026-11-15",
+                                    "Theme": "STI_CALLS",
+                                    "graphdisplay_center_x": 1268.4358974358984,
+                                    "graphdisplay_center_y": 763.2307692307693,
+                                    "graphdisplay_overview_x": 0,
+                                    "graphdisplay_overview_y": 0,
+                                    "graphdisplay_zoom": 60,
+                                    "graphwindow_fitheight": true,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "2_2560x1440_2560x1440": {
+                                            "container": 1,
+                                            "height": 995,
+                                            "isMaximized": false,
+                                            "width": 2016,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "OS_Init"
+                            }
+                        }
+                    },
+                    "61": {
+                        "Calls": {
+                            "Type=Entity ID=@lIIC_ReadRegBytes@kIIC_ReadRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": {
+                                "61": {
+                                    "CreatedOn": "2026-11-15",
+                                    "EntNodeOpts": {
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lAHT21_CalculateCrc8@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_CheckPowerOnStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Deinit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_HandlerInit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerInstantiate@kAHT21_HandlerInstantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerMount@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerRequestReadTemperatureHumidity@kAHT21_HandlerRequestReadTemperatureHumidity@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerThreadEntry@kAHT21_HandlerThreadEntry@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_Init@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Instantiate@kAHT21_Instantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Sleep@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_TaskEntry@kAHT21_TaskEntry@f.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_TemperatureHumidityCallback@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_Wakeup@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lIIC_Init@kIIC_Init@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadRegBytes@kIIC_ReadRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadSda@kIIC_ReadSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendAck@kIIC_SendAck@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendByte@kIIC_SendByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendNack@kIIC_SendNack@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaInputMode@kIIC_SetSdaInputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaOutputMode@kIIC_SetSdaOutputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Start@kIIC_Start@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Stop@kIIC_Stop@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegByte@kIIC_WriteRegByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegBytes@kIIC_WriteRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteScl@kIIC_WriteScl@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteSda@kIIC_WriteSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lOS_Init@kOS_Init@f.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@lSystem_AHT21ResourcesInit@kSystem_AHT21ResourcesInit@f.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueCreate@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueReceive@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueSend@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552
+                                    },
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Simplified",
+                                    "HideUnhighlightedEdges": 0,
+                                    "HideUnhighlightedNodes": 0,
+                                    "LastModifiedOn": "2026-11-15",
+                                    "Theme": "STI_CALLS",
+                                    "graphdisplay_center_x": 296.0869565217392,
+                                    "graphdisplay_center_y": 165.21739130434784,
+                                    "graphdisplay_overview_x": 0,
+                                    "graphdisplay_overview_y": 0,
+                                    "graphdisplay_zoom": 230,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "2_2560x1440_2560x1440": {
+                                            "container": 1,
+                                            "height": 995,
+                                            "isMaximized": false,
+                                            "width": 2016,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "IIC_ReadRegBytes"
+                            }
+                        }
+                    },
+                    "62": {
+                        "Include": {
+                            "Type=Entity ID=@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": {
+                                "62": {
+                                    "CreatedOn": "2026-11-15",
+                                    "EntNodeOpts": {
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Inc#SLASH#sw_bsp_aht21_driver.h": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Inc#SLASH#sw_bsp_aht21_handler.h": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.h": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.h": 263552,
+                                        "@lAHT21_CalculateCrc8@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_CheckPowerOnStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Deinit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_HandlerInit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerInstantiate@kAHT21_HandlerInstantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerMount@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerRequestReadTemperatureHumidity@kAHT21_HandlerRequestReadTemperatureHumidity@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerThreadEntry@kAHT21_HandlerThreadEntry@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_Init@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Instantiate@kAHT21_Instantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Sleep@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_TaskEntry@kAHT21_TaskEntry@f.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_TemperatureHumidityCallback@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_Wakeup@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lIIC_Init@kIIC_Init@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadRegBytes@kIIC_ReadRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadSda@kIIC_ReadSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendAck@kIIC_SendAck@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendByte@kIIC_SendByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendNack@kIIC_SendNack@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaInputMode@kIIC_SetSdaInputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaOutputMode@kIIC_SetSdaOutputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Start@kIIC_Start@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Stop@kIIC_Stop@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegByte@kIIC_WriteRegByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegBytes@kIIC_WriteRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteScl@kIIC_WriteScl@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteSda@kIIC_WriteSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lOS_Init@kOS_Init@f.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@lSystem_AHT21ResourcesInit@kSystem_AHT21ResourcesInit@f.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueCreate@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueReceive@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueSend@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552
+                                    },
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Simplified",
+                                    "HideUnhighlightedEdges": 0,
+                                    "HideUnhighlightedNodes": 0,
+                                    "LastModifiedOn": "2026-11-15",
+                                    "Theme": "STI_REF_TREE",
+                                    "graphdisplay_center_x": 458.67132867132864,
+                                    "graphdisplay_center_y": 230.45454545454544,
+                                    "graphdisplay_overview_x": 0,
+                                    "graphdisplay_overview_y": 0,
+                                    "graphdisplay_zoom": 110,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "2_2560x1440_2560x1440": {
+                                            "container": 1,
+                                            "height": 995,
+                                            "isMaximized": false,
+                                            "width": 2016,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "aht21_task.c"
+                            }
+                        }
+                    },
+                    "63": {
+                        "Include": {
+                            "Type=Entity ID=@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": {
+                                "63": {
+                                    "CreatedOn": "2026-11-15",
+                                    "EntNodeOpts": {
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Inc#SLASH#sw_bsp_aht21_driver.h": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Inc#SLASH#sw_bsp_aht21_handler.h": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.h": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lAHT21_CalculateCrc8@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_CheckPowerOnStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Deinit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_HandlerInit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerInstantiate@kAHT21_HandlerInstantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerMount@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerRequestReadTemperatureHumidity@kAHT21_HandlerRequestReadTemperatureHumidity@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerThreadEntry@kAHT21_HandlerThreadEntry@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_Init@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Instantiate@kAHT21_Instantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Sleep@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_TaskEntry@kAHT21_TaskEntry@f.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_TemperatureHumidityCallback@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_Wakeup@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lIIC_Init@kIIC_Init@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadRegBytes@kIIC_ReadRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadSda@kIIC_ReadSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendAck@kIIC_SendAck@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendByte@kIIC_SendByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendNack@kIIC_SendNack@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaInputMode@kIIC_SetSdaInputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaOutputMode@kIIC_SetSdaOutputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Start@kIIC_Start@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Stop@kIIC_Stop@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegByte@kIIC_WriteRegByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegBytes@kIIC_WriteRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteScl@kIIC_WriteScl@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteSda@kIIC_WriteSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lOS_Init@kOS_Init@f.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@lSystem_AHT21ResourcesInit@kSystem_AHT21ResourcesInit@f.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueCreate@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueReceive@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueSend@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552
+                                    },
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Simplified",
+                                    "HideUnhighlightedEdges": 0,
+                                    "HideUnhighlightedNodes": 0,
+                                    "LastModifiedOn": "2026-11-15",
+                                    "Theme": "STI_REF_TREE",
+                                    "graphdisplay_center_x": 421.30952380952385,
+                                    "graphdisplay_center_y": 220.1190476190476,
+                                    "graphdisplay_overview_x": 0,
+                                    "graphdisplay_overview_y": 0,
+                                    "graphdisplay_zoom": 120,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "2_2560x1440_2560x1440": {
+                                            "container": 1,
+                                            "height": 995,
+                                            "isMaximized": false,
+                                            "width": 2016,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "sw_bsp_aht21_handler.c"
+                            }
+                        }
+                    },
+                    "64": {
+                        "Include": {
+                            "Type=Entity ID=@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": {
+                                "64": {
+                                    "CreatedOn": "2026-11-15",
+                                    "EntNodeOpts": {
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Inc#SLASH#sw_bsp_aht21_driver.h": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Inc#SLASH#sw_bsp_aht21_handler.h": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.h": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.h": 263552,
+                                        "@lAHT21_CalculateCrc8@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_CheckPowerOnStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Deinit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_HandlerInit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerInstantiate@kAHT21_HandlerInstantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerMount@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerRequestReadTemperatureHumidity@kAHT21_HandlerRequestReadTemperatureHumidity@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerThreadEntry@kAHT21_HandlerThreadEntry@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_Init@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Instantiate@kAHT21_Instantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Sleep@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_TaskEntry@kAHT21_TaskEntry@f.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_TemperatureHumidityCallback@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_Wakeup@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lIIC_Init@kIIC_Init@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadRegBytes@kIIC_ReadRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadSda@kIIC_ReadSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendAck@kIIC_SendAck@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendByte@kIIC_SendByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendNack@kIIC_SendNack@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaInputMode@kIIC_SetSdaInputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaOutputMode@kIIC_SetSdaOutputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Start@kIIC_Start@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Stop@kIIC_Stop@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegByte@kIIC_WriteRegByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegBytes@kIIC_WriteRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteScl@kIIC_WriteScl@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteSda@kIIC_WriteSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lOS_Init@kOS_Init@f.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@lSystem_AHT21ResourcesInit@kSystem_AHT21ResourcesInit@f.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueCreate@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueReceive@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueSend@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552
+                                    },
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Simplified",
+                                    "HideUnhighlightedEdges": 0,
+                                    "HideUnhighlightedNodes": 0,
+                                    "LastModifiedOn": "2026-11-15",
+                                    "Theme": "STI_REF_TREE",
+                                    "graphdisplay_center_x": 222.42857142857136,
+                                    "graphdisplay_center_y": 282.2857142857143,
+                                    "graphdisplay_overview_x": 0,
+                                    "graphdisplay_overview_y": 0,
+                                    "graphdisplay_zoom": 70,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "2_2560x1440_2560x1440": {
+                                            "container": 1,
+                                            "height": 995,
+                                            "isMaximized": false,
+                                            "width": 2016,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "system_adaption.c"
+                            }
+                        }
+                    }
+                },
+                "GraphWindowList": [
+                    "Graph:|:Unused:01 AHT21 System Lifecycle:|::|:55:|:01 AHT21 System Lifecycle",
+                    "Graph:|:Unused:Calls:|:@lAHT21_TaskEntry@kAHT21_TaskEntry@f./../Z03_Business/AHT21_Task/aht21_task.c:|:56:|:Calls : AHT21_TaskEntry",
+                    "Graph:|:Unused:Calls:|:@lSystem_AHT21ResourcesInit@kSystem_AHT21ResourcesInit@f./../Z03_Business/System_Adaption/system_adaption.c:|:57:|:Calls : System_AHT21ResourcesInit",
+                    "Graph:|:Unused:Calls:|:@lAHT21_HandlerThreadEntry@kAHT21_HandlerThreadEntry@f./../Z02_BSP/AHT21/sw_bsp_aht21_handler/Src/sw_bsp_aht21_handler.c:|:58:|:Calls : AHT21_HandlerThreadEntry",
+                    "Graph:|:Unused:Calls:|:@lAHT21_ReadTemperatureHumidity@p@l./../Z02_BSP/AHT21/sw_bsp_aht21_driver/Src/sw_bsp_aht21_driver.c:|:59:|:Calls : AHT21_ReadTemperatureHumidity",
+                    "Graph:|:Unused:Calls:|:@lOS_Init@kOS_Init@f./../Z03_Business/Init/os_init.c:|:60:|:Calls : OS_Init",
+                    "Graph:|:Unused:Calls:|:@lIIC_ReadRegBytes@kIIC_ReadRegBytes@f./../Z02_BSP/IIC/iic.c:|:61:|:Calls : IIC_ReadRegBytes",
+                    "Graph:|:Unused:Include:|:@l./../Z03_Business/AHT21_Task/aht21_task.c:|:62:|:Include : aht21_task.c",
+                    "Graph:|:Unused:Include:|:@l./../Z02_BSP/AHT21/sw_bsp_aht21_handler/Src/sw_bsp_aht21_handler.c:|:63:|:Include : sw_bsp_aht21_handler.c",
+                    "Graph:|:Unused:Include:|:@l./../Z03_Business/System_Adaption/system_adaption.c:|:64:|:Include : system_adaption.c"
+                ],
+                "GraphicFilterSettings": {
+                    "Enabled": false
+                },
+                "IBExpansions": {
+                    "InfoBrowserWidget": [
+                        "Jovial References",
+                        "Python References",
+                        "WEB References",
+                        "WEB Possible References",
+                        "Asm References",
+                        "C++ File Global Macros",
+                        "Ada References",
+                        "Ftn References",
+                        "VHDL References",
+                        "c# References",
+                        "C++ References",
+                        "Java References",
+                        "basic References",
+                        "Pascal References",
+                        "C++ File Global"
+                    ]
+                },
+                "IBOptions": {
+                },
+                "InfoBrowserWindowManager": {
+                    "InfoBrowserFileSyncInst": -1,
+                    "InfoBrowserSyncInst": [
+                        "0"
+                    ]
+                },
+                "LastAccessedPid": "484",
+                "LastDisplayGroup": "2_2560x1440_2560x1440",
+                "Locator": {
+                    "LastEntityFilterUsed": "All Entities"
+                },
+                "MaintainEditorHistory": {
+                    "FileRanges": {
+                        "size": 0
+                    },
+                    "index": -1
+                },
+                "MiscSaveStates": {
+                    "entitySelected": "@lAHT21_CalculateCrc8@p@l./../Z02_BSP/AHT21/sw_bsp_aht21_driver/Src/sw_bsp_aht21_driver.c",
+                    "ib": "entity:||:@lSystemClock_Config@kSystemClock_Config@f./../Core/Src/main.c",
+                    "metricsBrowser": true,
+                    "metricsBrowserExpansionAddresses": "Directory Structure,Directory Structure::Z02_BSP,Directory Structure::Z02_BSP::IIC,Directory Structure::Core,Directory Structure::Core::Src,Directory Structure::Core::Src::main.c (File)",
+                    "metricsBrowserSelectionAddress": "Directory Structure::Core::Src::main.c (File)::SystemClock_Config (Function)",
+                    "metricsBrowserSplitterState": "AAAA/wAAAAEAAAABAAACAAH/////AQAAAAEA",
+                    "selection": "SystemClock_Config"
+                },
+                "ProjectMetricsBrowser": {
+                    "Overwrite": false,
+                    "SaveDirectory": "./."
+                },
+                "ProjectUI": {
+                    "projectviewcuritem": "Z02_BSP"
+                },
+                "SplitWorkspace1SelectedTab": "Graph:|:Unused:01 AHT21 System Lifecycle:|::|:55:|:01 AHT21 System Lifecycle",
+                "SplitWorkspace1Tabs": [
+                    "Graph:|:Unused:01 AHT21 System Lifecycle:|::|:55:|:01 AHT21 System Lifecycle",
+                    "Graph:Z03_Business/AHT21_Task/aht21_task.c:|:56:|:Calls : AHT21_TaskEntry",
+                    "Graph:Z03_Business/System_Adaption/system_adaption.c:|:57:|:Calls : System_AHT21ResourcesInit",
+                    "Graph:Z02_BSP/AHT21/sw_bsp_aht21_handler/Src/sw_bsp_aht21_handler.c:|:58:|:Calls : AHT21_HandlerThreadEntry",
+                    "Graph:Z02_BSP/AHT21/sw_bsp_aht21_driver/Src/sw_bsp_aht21_driver.c:|:59:|:Calls : AHT21_ReadTemperatureHumidity",
+                    "Graph:Z03_Business/Init/os_init.c:|:60:|:Calls : OS_Init",
+                    "Graph:Z02_BSP/IIC/iic.c:|:61:|:Calls : IIC_ReadRegBytes",
+                    "Graph:Z03_Business/AHT21_Task/aht21_task.c:|:62:|:Include : aht21_task.c",
+                    "Graph:Z02_BSP/AHT21/sw_bsp_aht21_handler/Src/sw_bsp_aht21_handler.c:|:63:|:Include : sw_bsp_aht21_handler.c",
+                    "Graph:Z03_Business/System_Adaption/system_adaption.c:|:64:|:Include : system_adaption.c"
+                ],
+                "SplittableWorkspace": {
+                    "active workspace": 0,
+                    "primary ws size": 2016,
+                    "split orientation": 0
+                },
+                "projectconfigure": {
+                    "last config panel": "C++\tMacros"
+                }
+            }
+        },
+        "default": {
+            "SessionData": {
+                "2_2560x1440_2560x1440": {
+                    "AnalysisLog": {
+                        "Dock Area": 8,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    },
+                    "DockWidgets": {
+                        "FloatingWidgetOrder": [
+                        ],
+                        "OpenWindows": {
+                            "00ProjectOverviewWidget": {
+                                "height": 608,
+                                "width": 250
+                            },
+                            "01SuggestionsBrowser": {
+                                "height": 995,
+                                "width": 250
+                            },
+                            "02EntityFilter": {
+                                "height": 631,
+                                "width": 250
+                            },
+                            "03Locator": {
+                                "height": 244,
+                                "width": 2270
+                            },
+                            "04ProjectMetricsWidget": {
+                                "height": 221,
+                                "width": 2270
+                            },
+                            "05InfoBrowserWidget_0": {
+                                "height": 628,
+                                "width": 270
+                            }
+                        },
+                        "TabGroupFrontWidgets": [
+                            "ProjectOverviewWidget",
+                            "ProjectMetricsWidget"
+                        ]
+                    },
+                    "EntityFilter": {
+                        "Dock Area": 1,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                            "ProjectOverviewWidget"
+                        ]
+                    },
+                    "InfoBrowserWidget_0": {
+                        "Dock Area": 1,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    },
+                    "IssueBrowser": {
+                        "Dock Area": 8,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    },
+                    "Locator": {
+                        "Dock Area": 8,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                            "ProjectMetricsWidget"
+                        ]
+                    },
+                    "ProjectMetricsWidget": {
+                        "Dock Area": 8,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                            "Locator"
+                        ]
+                    },
+                    "ProjectOverviewWidget": {
+                        "Dock Area": 1,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                            "EntityFilter"
+                        ]
+                    },
+                    "SuggestionsBrowser": {
+                        "Dock Area": 2,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    }
+                },
+                "EditorWindowSetting": {
+                    "5a1925db9a11dabfa4451188a57564ae": {
+                        "anchor": {
+                            "line": 145,
+                            "offset": 60
+                        },
+                        "caret": {
+                            "line": 145,
+                            "offset": 60
+                        },
+                        "container": 1,
+                        "height": 995,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 0,
+                        "width": 2016,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "5adc247ab9cc453cc4fb9e69eefda101": {
+                        "anchor": {
+                            "line": 0,
+                            "offset": 0
+                        },
+                        "caret": {
+                            "line": 0,
+                            "offset": 0
+                        },
+                        "container": 1,
+                        "height": 1011,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 0,
+                        "width": 2032,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "5e1ef808a601dc0a0111cd128bc74f44": {
+                        "anchor": {
+                            "line": 20,
+                            "offset": 2
+                        },
+                        "caret": {
+                            "line": 20,
+                            "offset": 2
+                        },
+                        "container": 1,
+                        "height": 1011,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 43,
+                        "width": 2032,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "7fca8e3ddac73bafcdfd8f99d83d35ab": {
+                        "anchor": {
+                            "line": 12,
+                            "offset": 46
+                        },
+                        "caret": {
+                            "line": 12,
+                            "offset": 46
+                        },
+                        "container": 1,
+                        "height": 1011,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 0,
+                        "width": 2032,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "f372324a703bfb7492a77152272df70d": {
+                        "anchor": {
+                            "line": 346,
+                            "offset": 5
+                        },
+                        "caret": {
+                            "line": 346,
+                            "offset": 29
+                        },
+                        "container": 1,
+                        "height": 1011,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 306,
+                        "width": 2032,
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                "EntityFilter": {
+                    "LastEntityFilterUsed": "Functions"
+                },
+                "GraphCustomizerTemporarySets": {
+                    "77": {
+                        "Include": {
+                            "Type=Entity ID=@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": {
+                                "77": {
+                                    "CreatedOn": "2026-11-15",
+                                    "EntNodeOpts": {
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Inc#SLASH#sw_bsp_aht21_driver.h": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Inc#SLASH#sw_bsp_aht21_handler.h": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.h": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.h": 263552,
+                                        "@lAHT21_CalculateCrc8@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_CheckPowerOnStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Deinit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_HandlerInit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerInstantiate@kAHT21_HandlerInstantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerMount@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerRequestReadTemperatureHumidity@kAHT21_HandlerRequestReadTemperatureHumidity@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerThreadEntry@kAHT21_HandlerThreadEntry@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_Init@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Instantiate@kAHT21_Instantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Sleep@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_TaskEntry@kAHT21_TaskEntry@f.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_TemperatureHumidityCallback@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_Wakeup@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lIIC_Init@kIIC_Init@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadRegBytes@kIIC_ReadRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadSda@kIIC_ReadSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendAck@kIIC_SendAck@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendByte@kIIC_SendByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendNack@kIIC_SendNack@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaInputMode@kIIC_SetSdaInputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaOutputMode@kIIC_SetSdaOutputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Start@kIIC_Start@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Stop@kIIC_Stop@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegByte@kIIC_WriteRegByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegBytes@kIIC_WriteRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteScl@kIIC_WriteScl@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteSda@kIIC_WriteSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lOS_Init@kOS_Init@f.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@lSystem_AHT21ResourcesInit@kSystem_AHT21ResourcesInit@f.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueCreate@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueReceive@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueSend@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552
+                                    },
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Simplified",
+                                    "HideUnhighlightedEdges": 0,
+                                    "HideUnhighlightedNodes": 0,
+                                    "LastModifiedOn": "2026-11-15",
+                                    "Theme": "STI_REF_TREE",
+                                    "graphdisplay_center_x": 532.0267094017095,
+                                    "graphdisplay_center_y": 130.38784826284822,
+                                    "graphdisplay_overview_x": 0,
+                                    "graphdisplay_overview_y": 0,
+                                    "graphdisplay_zoom": 90,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "2_2560x1440_2560x1440": {
+                                            "container": 1,
+                                            "height": 995,
+                                            "isMaximized": false,
+                                            "width": 2016,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "system_adaption.c"
+                            }
+                        }
+                    },
+                    "78": {
+                        "Include": {
+                            "Type=Entity ID=@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": {
+                                "78": {
+                                    "CreatedOn": "2026-11-15",
+                                    "EntNodeOpts": {
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Inc#SLASH#sw_bsp_aht21_driver.h": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Inc#SLASH#sw_bsp_aht21_handler.h": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.h": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.h": 263552,
+                                        "@lAHT21_CalculateCrc8@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_CheckPowerOnStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Deinit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_HandlerInit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerInstantiate@kAHT21_HandlerInstantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerMount@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerRequestReadTemperatureHumidity@kAHT21_HandlerRequestReadTemperatureHumidity@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerThreadEntry@kAHT21_HandlerThreadEntry@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_Init@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Instantiate@kAHT21_Instantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Sleep@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_TaskEntry@kAHT21_TaskEntry@f.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_TemperatureHumidityCallback@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_Wakeup@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lIIC_Init@kIIC_Init@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadRegBytes@kIIC_ReadRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadSda@kIIC_ReadSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendAck@kIIC_SendAck@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendByte@kIIC_SendByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendNack@kIIC_SendNack@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaInputMode@kIIC_SetSdaInputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaOutputMode@kIIC_SetSdaOutputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Start@kIIC_Start@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Stop@kIIC_Stop@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegByte@kIIC_WriteRegByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegBytes@kIIC_WriteRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteScl@kIIC_WriteScl@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteSda@kIIC_WriteSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lOS_Init@kOS_Init@f.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@lSystem_AHT21ResourcesInit@kSystem_AHT21ResourcesInit@f.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueCreate@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueReceive@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueSend@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552
+                                    },
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Simplified",
+                                    "HideUnhighlightedEdges": 0,
+                                    "HideUnhighlightedNodes": 0,
+                                    "LastModifiedOn": "2026-11-15",
+                                    "Theme": "STI_REF_TREE",
+                                    "graphdisplay_center_x": 203.12167372702015,
+                                    "graphdisplay_center_y": 260.5126916528335,
+                                    "graphdisplay_overview_x": 0,
+                                    "graphdisplay_overview_y": 0,
+                                    "graphdisplay_zoom": 70,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "2_2560x1440_2560x1440": {
+                                            "container": 1,
+                                            "height": 995,
+                                            "isMaximized": false,
+                                            "width": 2016,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "aht21_task.c"
+                            }
+                        }
+                    },
+                    "79": {
+                        "Include": {
+                            "Type=Entity ID=@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": {
+                                "79": {
+                                    "CreatedOn": "2026-11-15",
+                                    "EntNodeOpts": {
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Inc#SLASH#sw_bsp_aht21_driver.h": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Inc#SLASH#sw_bsp_aht21_handler.h": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.h": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lAHT21_CalculateCrc8@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_CheckPowerOnStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Deinit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_HandlerInit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerInstantiate@kAHT21_HandlerInstantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerMount@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerRequestReadTemperatureHumidity@kAHT21_HandlerRequestReadTemperatureHumidity@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerThreadEntry@kAHT21_HandlerThreadEntry@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_Init@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Instantiate@kAHT21_Instantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Sleep@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_TaskEntry@kAHT21_TaskEntry@f.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_TemperatureHumidityCallback@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_Wakeup@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lIIC_Init@kIIC_Init@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadRegBytes@kIIC_ReadRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadSda@kIIC_ReadSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendAck@kIIC_SendAck@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendByte@kIIC_SendByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendNack@kIIC_SendNack@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaInputMode@kIIC_SetSdaInputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaOutputMode@kIIC_SetSdaOutputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Start@kIIC_Start@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Stop@kIIC_Stop@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegByte@kIIC_WriteRegByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegBytes@kIIC_WriteRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteScl@kIIC_WriteScl@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteSda@kIIC_WriteSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lOS_Init@kOS_Init@f.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@lSystem_AHT21ResourcesInit@kSystem_AHT21ResourcesInit@f.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueCreate@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueReceive@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueSend@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552
+                                    },
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Simplified",
+                                    "HideUnhighlightedEdges": 0,
+                                    "HideUnhighlightedNodes": 0,
+                                    "LastModifiedOn": "2026-11-15",
+                                    "Theme": "STI_REF_TREE",
+                                    "graphdisplay_center_x": 451.47487939502014,
+                                    "graphdisplay_center_y": 100.45493981289235,
+                                    "graphdisplay_overview_x": 0,
+                                    "graphdisplay_overview_y": 0,
+                                    "graphdisplay_zoom": 110,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "2_2560x1440_2560x1440": {
+                                            "container": 1,
+                                            "height": 995,
+                                            "isMaximized": false,
+                                            "width": 2016,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "sw_bsp_aht21_handler.c"
+                            }
+                        }
+                    },
+                    "80": {
+                        "Calls": {
+                            "Type=Entity ID=@lOS_Init@kOS_Init@f.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": {
+                                "80": {
+                                    "CreatedOn": "2026-11-15",
+                                    "EntNodeOpts": {
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lAHT21_CalculateCrc8@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_CheckPowerOnStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Deinit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_HandlerInit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerInstantiate@kAHT21_HandlerInstantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerMount@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerRequestReadTemperatureHumidity@kAHT21_HandlerRequestReadTemperatureHumidity@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerThreadEntry@kAHT21_HandlerThreadEntry@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_Init@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Instantiate@kAHT21_Instantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Sleep@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_TaskEntry@kAHT21_TaskEntry@f.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_TemperatureHumidityCallback@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_Wakeup@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lIIC_Init@kIIC_Init@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadRegBytes@kIIC_ReadRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadSda@kIIC_ReadSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendAck@kIIC_SendAck@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendByte@kIIC_SendByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendNack@kIIC_SendNack@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaInputMode@kIIC_SetSdaInputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaOutputMode@kIIC_SetSdaOutputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Start@kIIC_Start@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Stop@kIIC_Stop@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegByte@kIIC_WriteRegByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegBytes@kIIC_WriteRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteScl@kIIC_WriteScl@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteSda@kIIC_WriteSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lOS_Init@kOS_Init@f.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@lSystem_AHT21ResourcesInit@kSystem_AHT21ResourcesInit@f.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueCreate@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueReceive@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueSend@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@laht21_iic_interface::pf_critical_exit@kc7aht21_iic_interface::pf_critical_exit@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Inc#SLASH#sw_bsp_aht21_driver.h": 263552
+                                    },
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Simplified",
+                                    "HideUnhighlightedEdges": 0,
+                                    "HideUnhighlightedNodes": 0,
+                                    "LastModifiedOn": "2026-11-15",
+                                    "Theme": "STI_CALLS",
+                                    "graphdisplay_center_x": 1305.788552922174,
+                                    "graphdisplay_center_y": 743.0636985619744,
+                                    "graphdisplay_overview_x": 0,
+                                    "graphdisplay_overview_y": 0,
+                                    "graphdisplay_zoom": 50,
+                                    "graphwindow_fitheight": true,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "2_2560x1440_2560x1440": {
+                                            "container": 1,
+                                            "height": 995,
+                                            "isMaximized": false,
+                                            "width": 2016,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "OS_Init"
+                            }
+                        }
+                    },
+                    "81": {
+                        "Calls": {
+                            "Type=Entity ID=@lSystem_AHT21ResourcesInit@kSystem_AHT21ResourcesInit@f.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": {
+                                "81": {
+                                    "CreatedOn": "2026-11-15",
+                                    "EntNodeOpts": {
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lAHT21_CalculateCrc8@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_CheckPowerOnStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Deinit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_HandlerInit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerInstantiate@kAHT21_HandlerInstantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerMount@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerRequestReadTemperatureHumidity@kAHT21_HandlerRequestReadTemperatureHumidity@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerThreadEntry@kAHT21_HandlerThreadEntry@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_Init@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Instantiate@kAHT21_Instantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Sleep@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_TaskEntry@kAHT21_TaskEntry@f.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_TemperatureHumidityCallback@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_Wakeup@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lIIC_Init@kIIC_Init@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadRegBytes@kIIC_ReadRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadSda@kIIC_ReadSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendAck@kIIC_SendAck@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendByte@kIIC_SendByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendNack@kIIC_SendNack@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaInputMode@kIIC_SetSdaInputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaOutputMode@kIIC_SetSdaOutputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Start@kIIC_Start@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Stop@kIIC_Stop@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegByte@kIIC_WriteRegByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegBytes@kIIC_WriteRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteScl@kIIC_WriteScl@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteSda@kIIC_WriteSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lOS_Init@kOS_Init@f.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@lSystem_AHT21ResourcesInit@kSystem_AHT21ResourcesInit@f.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueCreate@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueReceive@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueSend@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552
+                                    },
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Simplified",
+                                    "HideUnhighlightedEdges": 0,
+                                    "HideUnhighlightedNodes": 0,
+                                    "LastModifiedOn": "2026-11-15",
+                                    "Theme": "STI_CALLS",
+                                    "graphdisplay_center_x": 325.3574379266046,
+                                    "graphdisplay_center_y": 700.909916965188,
+                                    "graphdisplay_overview_x": 0,
+                                    "graphdisplay_overview_y": 0,
+                                    "graphdisplay_zoom": 40,
+                                    "graphwindow_fitheight": true,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "2_2560x1440_2560x1440": {
+                                            "container": 1,
+                                            "height": 995,
+                                            "isMaximized": false,
+                                            "width": 2016,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "System_AHT21ResourcesInit"
+                            }
+                        }
+                    },
+                    "82": {
+                        "Calls": {
+                            "Type=Entity ID=@lIIC_ReadRegBytes@kIIC_ReadRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": {
+                                "82": {
+                                    "CreatedOn": "2026-11-15",
+                                    "EntNodeOpts": {
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lAHT21_CalculateCrc8@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_CheckPowerOnStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Deinit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_HandlerInit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerInstantiate@kAHT21_HandlerInstantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerMount@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerRequestReadTemperatureHumidity@kAHT21_HandlerRequestReadTemperatureHumidity@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerThreadEntry@kAHT21_HandlerThreadEntry@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_Init@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Instantiate@kAHT21_Instantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Sleep@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_TaskEntry@kAHT21_TaskEntry@f.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_TemperatureHumidityCallback@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_Wakeup@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lIIC_Init@kIIC_Init@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadRegBytes@kIIC_ReadRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadSda@kIIC_ReadSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendAck@kIIC_SendAck@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendByte@kIIC_SendByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendNack@kIIC_SendNack@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaInputMode@kIIC_SetSdaInputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaOutputMode@kIIC_SetSdaOutputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Start@kIIC_Start@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Stop@kIIC_Stop@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegByte@kIIC_WriteRegByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegBytes@kIIC_WriteRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteScl@kIIC_WriteScl@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteSda@kIIC_WriteSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lOS_Init@kOS_Init@f.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@lSystem_AHT21ResourcesInit@kSystem_AHT21ResourcesInit@f.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueCreate@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueReceive@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueSend@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552
+                                    },
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Simplified",
+                                    "HideUnhighlightedEdges": 0,
+                                    "HideUnhighlightedNodes": 0,
+                                    "LastModifiedOn": "2026-11-15",
+                                    "Theme": "STI_CALLS",
+                                    "graphdisplay_center_x": 286.3465973057427,
+                                    "graphdisplay_center_y": 171.34781205245974,
+                                    "graphdisplay_overview_x": 0,
+                                    "graphdisplay_overview_y": 0,
+                                    "graphdisplay_zoom": 290,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "2_2560x1440_2560x1440": {
+                                            "container": 1,
+                                            "height": 995,
+                                            "isMaximized": false,
+                                            "width": 2016,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "IIC_ReadRegBytes"
+                            }
+                        }
+                    },
+                    "83": {
+                        "Calls": {
+                            "Type=Entity ID=@lAHT21_TaskEntry@kAHT21_TaskEntry@f.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": {
+                                "83": {
+                                    "CreatedOn": "2026-11-15",
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Simplified",
+                                    "HideUnhighlightedEdges": 0,
+                                    "HideUnhighlightedNodes": 0,
+                                    "LastModifiedOn": "2026-11-15",
+                                    "Theme": "STI_CALLS",
+                                    "graphdisplay_center_x": 1711.9590776061232,
+                                    "graphdisplay_center_y": 560.6313248226381,
+                                    "graphdisplay_overview_x": 0,
+                                    "graphdisplay_overview_y": 0,
+                                    "graphdisplay_zoom": 70,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": true,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "2_2560x1440_2560x1440": {
+                                            "container": 1,
+                                            "height": 995,
+                                            "isMaximized": false,
+                                            "width": 2016,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "AHT21_TaskEntry"
+                            }
+                        }
+                    },
+                    "84": {
+                        "Calls": {
+                            "Type=Entity ID=@lAHT21_ReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": {
+                                "84": {
+                                    "CreatedOn": "2026-11-15",
+                                    "EntNodeOpts": {
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lAHT21_CalculateCrc8@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_CheckPowerOnStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Deinit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_HandlerInit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerInstantiate@kAHT21_HandlerInstantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerMount@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerRequestReadTemperatureHumidity@kAHT21_HandlerRequestReadTemperatureHumidity@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerThreadEntry@kAHT21_HandlerThreadEntry@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_Init@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Instantiate@kAHT21_Instantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Sleep@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_TaskEntry@kAHT21_TaskEntry@f.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_TemperatureHumidityCallback@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_Wakeup@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lIIC_Init@kIIC_Init@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadRegBytes@kIIC_ReadRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadSda@kIIC_ReadSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendAck@kIIC_SendAck@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendByte@kIIC_SendByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendNack@kIIC_SendNack@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaInputMode@kIIC_SetSdaInputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaOutputMode@kIIC_SetSdaOutputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Start@kIIC_Start@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Stop@kIIC_Stop@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegByte@kIIC_WriteRegByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegBytes@kIIC_WriteRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteScl@kIIC_WriteScl@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteSda@kIIC_WriteSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lOS_Init@kOS_Init@f.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@lSystem_AHT21ResourcesInit@kSystem_AHT21ResourcesInit@f.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueCreate@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueReceive@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueSend@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552
+                                    },
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Simplified",
+                                    "HideUnhighlightedEdges": 0,
+                                    "HideUnhighlightedNodes": 0,
+                                    "LastModifiedOn": "2026-11-15",
+                                    "Theme": "STI_CALLS",
+                                    "graphdisplay_center_x": 278.14582127637533,
+                                    "graphdisplay_center_y": 293.4863566144998,
+                                    "graphdisplay_overview_x": 0,
+                                    "graphdisplay_overview_y": 0,
+                                    "graphdisplay_zoom": 120,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "2_2560x1440_2560x1440": {
+                                            "container": 1,
+                                            "height": 995,
+                                            "isMaximized": false,
+                                            "width": 2016,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "AHT21_ReadTemperatureHumidity"
+                            }
+                        }
+                    },
+                    "85": {
+                        "Calls": {
+                            "Type=Entity ID=@lAHT21_HandlerThreadEntry@kAHT21_HandlerThreadEntry@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": {
+                                "85": {
+                                    "CreatedOn": "2026-11-15",
+                                    "EntNodeOpts": {
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lAHT21_CalculateCrc8@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_CheckPowerOnStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Deinit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_HandlerInit@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerInstantiate@kAHT21_HandlerInstantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerMount@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerRequestReadTemperatureHumidity@kAHT21_HandlerRequestReadTemperatureHumidity@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_HandlerThreadEntry@kAHT21_HandlerThreadEntry@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Src#SLASH#sw_bsp_aht21_handler.c": 263552,
+                                        "@lAHT21_Init@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Instantiate@kAHT21_Instantiate@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadStatus@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_ReadTemperatureHumidity@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_Sleep@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lAHT21_TaskEntry@kAHT21_TaskEntry@f.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_TemperatureHumidityCallback@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#AHT21_Task#SLASH#aht21_task.c": 263552,
+                                        "@lAHT21_Wakeup@p@l.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_driver#SLASH#Src#SLASH#sw_bsp_aht21_driver.c": 263552,
+                                        "@lIIC_Init@kIIC_Init@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadRegBytes@kIIC_ReadRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_ReadSda@kIIC_ReadSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendAck@kIIC_SendAck@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendByte@kIIC_SendByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SendNack@kIIC_SendNack@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaInputMode@kIIC_SetSdaInputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_SetSdaOutputMode@kIIC_SetSdaOutputMode@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Start@kIIC_Start@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_Stop@kIIC_Stop@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegByte@kIIC_WriteRegByte@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteRegBytes@kIIC_WriteRegBytes@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteScl@kIIC_WriteScl@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lIIC_WriteSda@kIIC_WriteSda@f.#SLASH#..#SLASH#Z02_BSP#SLASH#IIC#SLASH#iic.c": 263552,
+                                        "@lOS_Init@kOS_Init@f.#SLASH#..#SLASH#Z03_Business#SLASH#Init#SLASH#os_init.c": 263552,
+                                        "@lSystem_AHT21ResourcesInit@kSystem_AHT21ResourcesInit@f.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueCreate@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueReceive@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@lSystem_QueueSend@p@l.#SLASH#..#SLASH#Z03_Business#SLASH#System_Adaption#SLASH#system_adaption.c": 263552,
+                                        "@ltemp_humi_event_t::pfcallback@kc7temp_humi_event_t::pfcallback1@o1@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Inc#SLASH#sw_bsp_aht21_handler.h": 263552,
+                                        "@ltemp_humi_handler_os_interface_t::os_queue_receive@kc7temp_humi_handler_os_interface_t::os_queue_receive1@o1@f.#SLASH#..#SLASH#Z02_BSP#SLASH#AHT21#SLASH#sw_bsp_aht21_handler#SLASH#Inc#SLASH#sw_bsp_aht21_handler.h": 263552
+                                    },
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Simplified",
+                                    "HideUnhighlightedEdges": 0,
+                                    "HideUnhighlightedNodes": 0,
+                                    "LastModifiedOn": "2026-11-15",
+                                    "Theme": "STI_CALLS",
+                                    "graphdisplay_center_x": 545,
+                                    "graphdisplay_center_y": 267.5,
+                                    "graphdisplay_overview_x": 0,
+                                    "graphdisplay_overview_y": 0,
+                                    "graphdisplay_zoom": 160,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "2_2560x1440_2560x1440": {
+                                            "container": 1,
+                                            "height": 995,
+                                            "isMaximized": false,
+                                            "width": 2016,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "AHT21_HandlerThreadEntry"
+                            }
+                        }
+                    },
+                    "86": {
+                        "01 AHT21 System Lifecycle": {
+                            "": {
+                                "86": {
+                                    "CreatedOn": "2026-11-15",
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "",
+                                    "LastModifiedOn": "2026-11-15",
+                                    "graphdisplay_center_x": 93.54838709677439,
+                                    "graphdisplay_center_y": 2523.5483870967746,
+                                    "graphdisplay_overview_x": 10,
+                                    "graphdisplay_overview_y": 10,
+                                    "graphdisplay_zoom": 10,
+                                    "graphwindow_fitheight": true,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "2_2560x1440_2560x1440": {
+                                            "container": 1,
+                                            "height": 995,
+                                            "isMaximized": false,
+                                            "width": 2016,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": ""
+                            }
+                        }
+                    }
+                },
+                "GraphWindowList": [
+                    "Graph:|:Unused:01 AHT21 System Lifecycle:|::|:86:|:01 AHT21 System Lifecycle",
+                    "Graph:|:Unused:Calls:|:@lAHT21_HandlerThreadEntry@kAHT21_HandlerThreadEntry@f./../Z02_BSP/AHT21/sw_bsp_aht21_handler/Src/sw_bsp_aht21_handler.c:|:85:|:Calls : AHT21_HandlerThreadEntry",
+                    "Graph:|:Unused:Include:|:@l./../Z03_Business/System_Adaption/system_adaption.c:|:77:|:Include : system_adaption.c",
+                    "Graph:|:Unused:Include:|:@l./../Z03_Business/AHT21_Task/aht21_task.c:|:78:|:Include : aht21_task.c",
+                    "Graph:|:Unused:Include:|:@l./../Z02_BSP/AHT21/sw_bsp_aht21_handler/Src/sw_bsp_aht21_handler.c:|:79:|:Include : sw_bsp_aht21_handler.c",
+                    "Graph:|:Unused:Calls:|:@lOS_Init@kOS_Init@f./../Z03_Business/Init/os_init.c:|:80:|:Calls : OS_Init",
+                    "Graph:|:Unused:Calls:|:@lSystem_AHT21ResourcesInit@kSystem_AHT21ResourcesInit@f./../Z03_Business/System_Adaption/system_adaption.c:|:81:|:Calls : System_AHT21ResourcesInit",
+                    "Graph:|:Unused:Calls:|:@lIIC_ReadRegBytes@kIIC_ReadRegBytes@f./../Z02_BSP/IIC/iic.c:|:82:|:Calls : IIC_ReadRegBytes",
+                    "Graph:|:Unused:Calls:|:@lAHT21_TaskEntry@kAHT21_TaskEntry@f./../Z03_Business/AHT21_Task/aht21_task.c:|:83:|:Calls : AHT21_TaskEntry",
+                    "Graph:|:Unused:Calls:|:@lAHT21_ReadTemperatureHumidity@p@l./../Z02_BSP/AHT21/sw_bsp_aht21_driver/Src/sw_bsp_aht21_driver.c:|:84:|:Calls : AHT21_ReadTemperatureHumidity"
+                ],
+                "GraphicFilterSettings": {
+                    "Enabled": false
+                },
+                "IBExpansions": {
+                    "InfoBrowserWidget": [
+                        "Jovial References",
+                        "Python References",
+                        "WEB References",
+                        "WEB Possible References",
+                        "Asm References",
+                        "C++ File Global Macros",
+                        "Ada References",
+                        "Ftn References",
+                        "VHDL References",
+                        "c# References",
+                        "C++ References",
+                        "Java References",
+                        "basic References",
+                        "Pascal References",
+                        "C++ File Global"
+                    ]
+                },
+                "IBOptions": {
+                },
+                "InfoBrowserWindowManager": {
+                    "InfoBrowserFileSyncInst": -1,
+                    "InfoBrowserSyncInst": [
+                        "0"
+                    ]
+                },
+                "LastAccessedPid": "6480",
+                "LastDisplayGroup": "2_2560x1440_2560x1440",
+                "Locator": {
+                    "LastEntityFilterUsed": "All Entities"
+                },
+                "MaintainEditorHistory": {
+                    "FileRanges": {
+                        "size": 0
+                    },
+                    "index": -1
+                },
+                "MiscSaveStates": {
+                    "entitySelected": "@lAHT21_CalculateCrc8@p@l./../Z02_BSP/AHT21/sw_bsp_aht21_driver/Src/sw_bsp_aht21_driver.c",
+                    "ib": "entity:||:@lAHT21_Init@p@l./../Z02_BSP/AHT21/sw_bsp_aht21_driver/Src/sw_bsp_aht21_driver.c",
+                    "metricsBrowser": true,
+                    "metricsBrowserExpansionAddresses": "Directory Structure,Directory Structure::Z02_BSP,Directory Structure::Z02_BSP::AHT21,Directory Structure::Z02_BSP::AHT21::sw_bsp_aht21_driver,Directory Structure::Z02_BSP::AHT21::sw_bsp_aht21_driver::Src,Directory Structure::Z02_BSP::AHT21::sw_bsp_aht21_driver::Src::sw_bsp_aht21_driver.c (File)",
+                    "metricsBrowserSelectionAddress": "Directory Structure::Z02_BSP::AHT21::sw_bsp_aht21_driver::Src::sw_bsp_aht21_driver.c (File)::AHT21_Init (Static Function)",
+                    "metricsBrowserSplitterState": "AAAA/wAAAAEAAAABAAACAAH/////AQAAAAEA",
+                    "selection": "AHT21_CalculateCrc8"
+                },
+                "ProjectMetricsBrowser": {
+                    "Overwrite": false,
+                    "SaveDirectory": "./."
+                },
+                "ProjectUI": {
+                    "projectviewcuritem": "Z02_BSP"
+                },
+                "SplitWorkspace1SelectedTab": "Graph:|:Unused:01 AHT21 System Lifecycle:|::|:86:|:01 AHT21 System Lifecycle",
+                "SplitWorkspace1Tabs": [
+                    "Graph:|:Unused:01 AHT21 System Lifecycle:|::|:86:|:01 AHT21 System Lifecycle",
+                    "Graph:Z02_BSP/AHT21/sw_bsp_aht21_handler/Src/sw_bsp_aht21_handler.c:|:85:|:Calls : AHT21_HandlerThreadEntry",
+                    "Graph:Z02_BSP/AHT21/sw_bsp_aht21_driver/Src/sw_bsp_aht21_driver.c:|:84:|:Calls : AHT21_ReadTemperatureHumidity",
+                    "Graph:Z03_Business/AHT21_Task/aht21_task.c:|:83:|:Calls : AHT21_TaskEntry",
+                    "Graph:Z02_BSP/IIC/iic.c:|:82:|:Calls : IIC_ReadRegBytes",
+                    "Graph:Z03_Business/Init/os_init.c:|:80:|:Calls : OS_Init",
+                    "Graph:Z03_Business/System_Adaption/system_adaption.c:|:81:|:Calls : System_AHT21ResourcesInit",
+                    "Graph:Z02_BSP/AHT21/sw_bsp_aht21_handler/Src/sw_bsp_aht21_handler.c:|:79:|:Include : sw_bsp_aht21_handler.c",
+                    "Graph:Z03_Business/AHT21_Task/aht21_task.c:|:78:|:Include : aht21_task.c",
+                    "Graph:Z03_Business/System_Adaption/system_adaption.c:|:77:|:Include : system_adaption.c"
+                ],
+                "SplittableWorkspace": {
+                    "active workspace": 0,
+                    "primary ws size": 2016,
+                    "split orientation": 0
+                },
+                "projectconfigure": {
+                    "last config panel": "C++\tMacros"
+                }
+            }
+        }
+    }
+}

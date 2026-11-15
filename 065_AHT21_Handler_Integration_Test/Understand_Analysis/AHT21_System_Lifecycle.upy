@@ -1,0 +1,186 @@
+"""Source-reviewed AHT21 lifecycle, displayed inside Understand.
+
+This is a semantic flow graph, not a fabricated set of database call references.
+Solid blue edges: normal sequence / direct call. Purple dashed: task scheduling.
+Orange dashed: queue transport. Green dashed: bound function pointer.
+Reviewed against this workspace on 2026-11-15. Source edits require review.
+"""
+
+def name():
+    return '01 AHT21 System Lifecycle'
+
+def description():
+    return '从 main 到初始化、调度、首次构造、队列、测量、缓存和回调打印的源码核对总图。不是运行时跟踪。'
+
+def test_global(*args):
+    return True
+
+def test_entity(ent):
+    return ent.name() in ('main', 'AHT21_TaskEntry', 'AHT21_HandlerThreadEntry')
+
+def init(graph, target):
+    graph.options().define('Layout', ['Top to Bottom', 'Left to Right'], 'Top to Bottom')
+
+def draw(graph, target):
+    graph.set('rankdir', 'TB' if graph.options().lookup('Layout') == 'Top to Bottom' else 'LR')
+    graph.set('label', 'AHT21 系统总流程｜线程入口 → 一次性准备 → for (;;) 持续循环\n蓝色区域：进入时只执行一次；绿色区域：反复执行；粗绿回线：下一轮\n紫虚线：调度；橙虚线：队列；绿虚线：函数指针\n按源码人工核对，非运行时记录；并发线程不存在唯一执行顺序')
+    graph.set('labelloc', 't')
+    graph.default('fontname', 'Microsoft YaHei', 'node')
+    graph.default('fontname', 'Microsoft YaHei', 'edge')
+    graph.default('fontname', 'Microsoft YaHei', 'graph')
+    graph.default('shape', 'box', 'node')
+    graph.default('style', 'rounded,filled', 'node')
+    graph.default('fillcolor', '#eef5ff', 'node')
+    graph.default('color', '#5082b0', 'node')
+    graph.default('color', '#5082b0', 'edge')
+    graph.default('fontsize', '11', 'node')
+    graph.default('fontsize', '10', 'edge')
+    entities = {}
+    for ent in graph.db().ents('function ~unknown ~unresolved'):
+        if ent.name() not in entities or ent.ref('definein'):
+            entities[ent.name()] = ent
+    nodes = {}
+    def node(area, key, label, function=None, shape=None):
+        ent = entities.get(function)
+        n = area.node(label, ent) if ent else area.node(label)
+        if shape:
+            n.set('shape', shape)
+        nodes[key] = n
+        return n
+    def edge(a, b, label='', kind='flow', back=False):
+        e = graph.edge(nodes[a], nodes[b])
+        if label:
+            e.set('label', label)
+        colors = {'task': '#8053b8', 'queue': '#cb7820', 'pointer': '#278b65', 'error': '#bd4444'}
+        if kind in colors:
+            e.set('color', colors[kind])
+            e.set('style', 'dashed')
+        if back:
+            e.set('constraint', 'false')
+        return e
+
+    def thread_areas(title):
+        area = graph.cluster(title)
+        entry = area.cluster('进入线程：只执行一次（入口杆）')
+        entry.set('color', '#719bcd')
+        entry.set('style', 'rounded,filled')
+        entry.set('fillcolor', '#f3f7ff')
+        loop = area.cluster('for (;;)：持续循环（沿粗绿回线进入下一轮）')
+        loop.set('color', '#168267')
+        loop.set('penwidth', '2.5')
+        loop.set('style', 'rounded,filled')
+        loop.set('fillcolor', '#effaf4')
+        return entry, loop
+
+    def loop_back(a, b, label):
+        e = edge(a, b, label, back=True)
+        e.set('color', '#087554')
+        e.set('fontcolor', '#087554')
+        e.set('penwidth', '3')
+        e.set('arrowsize', '1.4')
+        port = 'e' if graph.options().lookup('Layout') == 'Top to Bottom' else 's'
+        e.set('tailport', port)
+        e.set('headport', port)
+        e.set('minlen', '2')
+
+    def loop_head(area, key, function):
+        n = node(area, key, 'for (;;)\n每轮从这里开始', function, 'ellipse')
+        n.set('fillcolor', '#d5f2e4')
+        n.set('color', '#087554')
+        n.set('penwidth', '2')
+
+    boot = graph.cluster('① main.c：启动阶段（调度器启动前）')
+    node(boot,'main','main()','main')
+    node(boot,'hal','HAL_Init()\nHAL / Flash / 系统时基','HAL_Init')
+    node(boot,'loginit','debug_init()\n日志后端初始化','debug_init')
+    node(boot,'clock','SystemClock_Config() → Delay_Init()\n系统时钟与延时初始化','SystemClock_Config')
+    node(boot,'periph','MX_GPIO_Init() → MX_USART1_UART_Init()\nDelay_Ms(100)：等待传感器上电','MX_GPIO_Init')
+    node(boot,'kernel','osKernelInitialize()\nMX_FREERTOS_Init() → OS_Init()','MX_FREERTOS_Init')
+    node(boot,'create','OS_Init()：xTaskCreate\nStatus_TaskEntry + AHT21_TaskEntry\n仅创建就绪任务，此时调度器尚未启动','OS_Init')
+    node(boot,'sched','osKernelStart()\n成功启动后由调度器接管，通常不返回','osKernelStart')
+    for a,b in zip(['main','hal','loginit','clock','periph','kernel','create'],['hal','loginit','clock','periph','kernel','create','sched']):edge(a,b)
+
+    producer, producer_loop = thread_areas('② AHT21 业务线程｜AHT21_TaskEntry')
+    node(producer,'task','线程入口：AHT21_TaskEntry()','AHT21_TaskEntry','oval')
+    node(producer,'config','一次性配置 SDA/SCL、HAL_GetTick\nvTaskDelay、临界区接口','AHT21_TaskEntry')
+    node(producer,'resources','System_AHT21ResourcesInit()\n复制持久配置、绑定队列适配接口和 driver 对象','System_AHT21ResourcesInit')
+    node(producer,'construct','AHT21_HandlerInstantiate()\n校验输入、绑定依赖、关联静态 private_data','AHT21_HandlerInstantiate')
+    node(producer,'hinit','AHT21_HandlerInit()','AHT21_HandlerInit')
+    node(producer,'qcreate','os_queue_create → System_QueueCreate\n→ xQueueCreate：10 个 event 元素','System_QueueCreate')
+    node(producer,'driverconstruct','AHT21_Instantiate()\n绑定 driver 方法指针，并调用 AHT21_Init()','AHT21_Instantiate')
+    node(producer,'driverinit','AHT21_Init()\nIIC_Init → RTOS 延时 300 ms\nAHT21_CheckPowerOnStatus → AHT21_ReadStatus','AHT21_Init')
+    node(producer,'mount','返回 Handler：设置 initialized 标志\nAHT21_HandlerMount() 发布实例','AHT21_HandlerMount')
+    node(producer,'workercreate','xTaskCreate(AHT21_HandlerThreadEntry)\n创建更高优先级工作线程；可能立即抢占','AHT21_TaskEntry')
+    node(producer,'event','构造请求 event\nBOTH_TEMP_HUMI_EVENT；lifetime=10000 ms\npfcallback=AHT21_TemperatureHumidityCallback','AHT21_TaskEntry')
+    loop_head(producer_loop, 'producer_loop', 'AHT21_TaskEntry')
+    node(producer_loop,'request','elog_d：本轮开始\nAHT21_HandlerRequestReadTemperatureHumidity()\n检查 Handler initialized','AHT21_HandlerRequestReadTemperatureHumidity')
+    node(producer_loop,'send','os_queue_send → System_QueueSend\n→ xQueueSend：拷贝 event 入队，可阻塞','System_QueueSend')
+    node(producer_loop,'delay','提交返回 → 更新诊断计数\nvTaskDelay(pdMS_TO_TICKS(2000))','AHT21_TaskEntry')
+    edge('sched','task','调度运行', 'task')
+    seq=['task','config','resources','construct','hinit','qcreate','driverconstruct','driverinit','mount','workercreate','event','producer_loop','request','send','delay']
+    for a,b in zip(seq,seq[1:]):edge(a,b)
+    edge('hinit','qcreate','绑定接口','pointer')
+    loop_back('delay','producer_loop','2 秒延时结束 → 下一轮\n不返回入口，不重复构造')
+
+    worker_entry, worker = thread_areas('③ Handler 工作线程｜AHT21_HandlerThreadEntry')
+    node(worker_entry,'thread','线程入口：AHT21_HandlerThreadEntry()\n忽略 p_argument，打印线程启动日志','AHT21_HandlerThreadEntry','oval')
+    node(worker_entry,'worker_init','一次性准备局部变量\ntemperature=0、humidity=0\n取得已挂载的 Handler；声明 event / result','AHT21_HandlerThreadEntry')
+    loop_head(worker, 'worker_loop', 'AHT21_HandlerThreadEntry')
+    node(worker,'receive','os_queue_receive → System_QueueReceive\n→ xQueueReceive：队列为空时阻塞','System_QueueReceive')
+    node(worker,'handle','AHT21_HandlerReadTemperatureHumidity()\n确认 BOTH_TEMP_HUMI_EVENT\npf_get_tick_count → HAL_GetTick','AHT21_HandlerReadTemperatureHumidity')
+    node(worker,'fresh','tick - last_temp_tick > 10000 ms？\nlast_temp_tick 静态初始为 0','AHT21_HandlerReadTemperatureHumidity','diamond')
+    node(worker,'old','Old Data：保留缓存\n启动未满 10 秒时，首次请求也可能走这里\n初始缓存为 0，不是传感器实测值','AHT21_HandlerReadTemperatureHumidity')
+    node(worker,'read','pf_aht21_read_temperature_humidity\n→ AHT21_ReadTemperatureHumidity()','AHT21_ReadTemperatureHumidity')
+    node(worker,'stamp','更新 last_temp_tick；打印 New Data\n注意：当前代码未传播 driver 读取错误','AHT21_HandlerReadTemperatureHumidity')
+    node(worker,'callback','event.pfcallback\n→ AHT21_TemperatureHumidityCallback()','AHT21_TemperatureHumidityCallback')
+    node(worker,'print','elog_d：打印温度与湿度\nsg_temperature = 温度 × 1.5\n回调返回工作线程','AHT21_TemperatureHumidityCallback')
+    edge('workercreate','thread','调度器启动线程','task')
+    edge('thread','worker_init')
+    edge('worker_init','worker_loop','准备完成，只在首次进入时走一次')
+    edge('worker_loop','receive')
+    edge('send','receive','event 队列传输，不是直接函数调用','queue',True)
+    edge('receive','handle','收到 event 后处理')
+    edge('handle','fresh')
+    edge('fresh','old','否 / 等于阈值')
+    edge('fresh','read','是：绑定的 driver 方法','pointer')
+    edge('old','callback','复用缓存')
+    edge('stamp','callback')
+    edge('callback','print','绑定的业务回调','pointer')
+    loop_back('print','worker_loop','回调返回 → 下一轮收队列\n保留缓存，不重新清零')
+
+    driver = graph.cluster('④ 工作线程循环内的驱动调用（不是新线程）：driver.c → iic.c → GPIO / Delay')
+    node(driver,'trigger','检查参数/初始化状态\nIIC_Start → SendByte / WaitAck → IIC_Stop\n发送地址 + 0xAC 0x33 0x00','AHT21_ReadTemperatureHumidity')
+    node(driver,'wait','pf_rtos_delay → vTaskDelay：先等 80 ms\nAHT21_ReadStatus 检查 busy\n仍 busy 则间隔 5 ms 重试；最多检查 6 次','AHT21_ReadStatus')
+    node(driver,'frame','读地址 + 7 字节测量帧\nIIC_ReadByte / SendAck / SendNack / Stop','IIC_ReadByte')
+    node(driver,'gpio','IIC_WriteSda / IIC_WriteScl / IIC_ReadSda\nGPIO 寄存器与 Delay_Us 实现软件 IIC 时序','IIC_WriteSda')
+    node(driver,'crc','AHT21_CalculateCrc8()\n核对帧 CRC，解码温湿度并写回输出指针','AHT21_CalculateCrc8')
+    node(driver,'readerr','触发、超时、读帧或 CRC 失败：driver 提前返回\nHandler 仍更新时间戳并执行回调\n输出可能保留旧值，不能等同于读取成功','AHT21_ReadTemperatureHumidity')
+    nodes['readerr'].set('fillcolor','#fff0ef')
+    edge('read','trigger')
+    edge('trigger','wait','成功')
+    edge('wait','frame','busy 已清除')
+    edge('frame','crc','接收成功')
+    edge('frame','gpio','IIC 原语调用')
+    edge('trigger','gpio','IIC 原语调用',back=True)
+    edge('crc','stamp','成功返回温湿度')
+    for a in ['trigger','wait','frame','crc']:edge(a,'readerr','失败','error',True)
+    edge('readerr','stamp','当前实际行为','error',True)
+
+    status_entry, status_loop = thread_areas('⑤ 状态线程｜Status_TaskEntry（与 AHT21 线程并行）')
+    node(status_entry,'status','线程入口：Status_TaskEntry()\n(void)p_argument；没有额外的一次性初始化','Status_TaskEntry','oval')
+    loop_head(status_loop, 'status_loop', 'Status_TaskEntry')
+    node(status_loop,'led','LED_Toggle()\n翻转状态 LED','LED_Toggle')
+    node(status_loop,'status_log','elog_i：Status_Task running...','Status_TaskEntry')
+    node(status_loop,'status_delay','vTaskDelay(pdMS_TO_TICKS(5000))\n阻塞本线程，让出 CPU','Status_TaskEntry')
+    edge('status','status_loop','首次进入循环')
+    edge('status_loop','led')
+    edge('led','status_log')
+    edge('status_log','status_delay')
+    loop_back('status_delay','status_loop','5 秒延时结束 → 下一轮')
+
+    other = graph.cluster('⑥ 启动失败与异常边界')
+    node(other,'fail','资源初始化或工作线程创建失败\n业务任务打印错误 → vTaskDelete(NULL)\n不会进入测量请求循环','AHT21_TaskEntry')
+    node(other,'note','说明：正常路径依赖任务/队列创建成功。\nOS_Init 任一创建失败会日志并提前返回；main 仍尝试启动调度器。\ndefaultTask 的创建语句已注释；main 尾部 while 不是正常周期打印入口。\n工作线程未用队列接收返回值阻止后续处理，异常路径需单独排查。')
+    edge('sched','status','由调度器运行','task',True)
+    edge('resources','fail','失败','error',True)
+    edge('workercreate','fail','失败','error',True)
