@@ -82,6 +82,7 @@ Select a project name to open its English documentation.
 | 060 | [LED_Bridge_Pattern](060_LED_Bridge_Pattern/README.md) | Separate LED behavior from hardware and FreeRTOS interfaces with the bridge pattern, using queued asynchronous blink requests. |
 | 061 | [Software_IIC_AHT21_ACK_Test](061_Software_IIC_AHT21_ACK_Test/README.md) | Probe the AHT21 address using GPIO software IIC and DWT delays, with results logged through RTT. |
 | 062 | [AHT21_Driver_Interface](062_AHT21_Driver_Interface/README.md) | Declare AHT21 Driver and platform callback interfaces while retaining the software IIC address acknowledgment test. |
+| 063 | [AHT21_Driver_FreeRTOS_Test](063_AHT21_Driver_FreeRTOS_Test/README.md) | Implement AHT21 measurement, CRC validation, and temperature and humidity conversion with periodic FreeRTOS sampling and logging. |
 
 ## Usage
 
